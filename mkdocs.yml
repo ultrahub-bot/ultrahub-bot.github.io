@@ -35,7 +35,7 @@ site_description: >-
 # Configuration
 theme:
   name: material
-  language: pt-br
+  language: pt
   
   features:
     - announce.dismiss
