@@ -1,0 +1,21 @@
+authors:
+  none:
+    name: none
+    description: title
+    avatar: http://link
+    
+  jix:
+    name: Jix,
+    description: Bagre Mestre
+    avatar: https://pbs.twimg.com/profile_images/1814414039574810624/kooT_8_v_400x400.jpg
+
+  # Inúteis rs
+  pen:
+    name: Pen,
+    description: Árvore Anciã
+    avatar: https://pbs.twimg.com/profile_images/1814414039574810624/kooT_8_v_400x400.jpg
+
+  gertrudes:
+    name: Gertrudes,
+    description: Galinha Lunática
+    avatar: https://pbs.twimg.com/profile_images/1814414039574810624/kooT_8_v_400x400.jpg
