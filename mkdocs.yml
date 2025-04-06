@@ -21,15 +21,15 @@
 # Geral ===========================================================================================
 site_name: Jix's AQWorlds Handbook
 site_url: https://github.com/Jix-AQW/site
-site_author: Arthur Calafange
+site_author: Arthur Calafange & Marcel 'PineOak' Carvalho
 site_description: >-
   Vídeos, tutoriais, walkthroughs e muito mais!
 
 # Repositorio =====================================================================================
+
 repo_name: jix-AQW/site
 repo_url: https://github.com/jix-AQW/site
 edit_uri: edit/main/docs/
-view_uri: edit/main/docs/
 
 # Copyright =======================================================================================
 
@@ -47,12 +47,12 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
+    - content.code.select
     # - content.footnote.tooltips
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
     # - navigation.instant
@@ -62,7 +62,7 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.path
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
