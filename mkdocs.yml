@@ -150,7 +150,7 @@ extra:
     deprecated: Deprecated
   analytics:
     provider: google
-    property: "{{ env.GOOGLE_ANALYTICS_KEY }}"
+    property: G-7VV4N2B7CT
     feedback:
       title: Esta página foi útil?
       ratings:
