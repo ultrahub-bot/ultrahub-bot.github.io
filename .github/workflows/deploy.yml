@@ -32,3 +32,4 @@ jobs:
         env:
           # Usa o token de acesso especial
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Já incluso automaticamente
+          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}  # Google Analytics
