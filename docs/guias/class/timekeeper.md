@@ -16,7 +16,6 @@ social_share: true
 # related_posts:
 # draft: true
 ---
-
 # TimeKeeper
 
 Texto que ficará aparecendo na página principal do blog antes do leia.
