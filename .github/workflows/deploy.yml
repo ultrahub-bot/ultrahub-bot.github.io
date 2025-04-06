@@ -18,7 +18,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: "3.11"
 
       - run: pip install mkdocs mkdocs-material
 
@@ -28,8 +28,14 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - run: mkdocs gh-deploy --force
+      - name: Deploy to GitHub Pages
         env:
-          # Usa o token de acesso especial
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Já incluso automaticamente
-          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}  # Google Analytics
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}  # Segredo obrigatório
+        run: mkdocs gh-deploy --force
+        
+      - name: Verificar substituição
+        run: |
+          echo "Chave GA: ${{ secrets.GOOGLE_ANALYTICS_KEY }}"
+          mkdocs build --verbose
+          grep -rin "G-" site/*  # Procura o ID no HTML gerado
