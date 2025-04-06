@@ -37,6 +37,7 @@ Visão geral sobre o encantamento. O que ele faz etc
 ### Requisitos
 - Mage Class Rank 10
 - Level 70
+
 ### Quest
 
 Fale com o NPC Cysero em `/Forge` e aceite a quest `Pneuma`. Para completá-la, basta matar qualquer monstro de `/Towerofdoom7`.
@@ -45,12 +46,14 @@ Fale com o NPC Cysero em `/Forge` e aceite a quest `Pneuma`. Para completá-la, 
 
 
 ## Vantagens e Desvantagens
-
-| Vantagens         | Desvantagens               |
-| ----------------- | -------------------------- |
-| Alto valor de INT | perda significativa de END |
-
-
+=== "Vantagens"
+    ```
+    Alto valor de INT
+    ```
+===+ "Desvantagens"
+    ```
+    Perda significativa de END
+    ```
 
 ## Referências Bibliográficas
 

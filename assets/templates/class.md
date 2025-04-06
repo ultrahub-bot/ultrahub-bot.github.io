@@ -14,10 +14,7 @@ thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-
 excerpt: Uma descrição curta do post.
 social_share: true
 related_posts:
-  - 20250305-ost-jam.md
-draft: true
 ---
-https://www.youtube.com/embed/oHVfeRw6cZU?si=a1dJ5I76tmzFz_QH
 # TimeKeeper
 
 Texto que ficará aparecendo na página principal do blog antes do leia.

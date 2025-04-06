@@ -18,26 +18,30 @@
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 # IN THE SOFTWARE.
 
-# Project information
-site_name: Jix AQW
+# Geral ===========================================================================================
+site_name: Jix's AQWorlds Handbook
 site_url: https://github.com/Jix-AQW/site
 site_author: Arthur Calafange
 site_description: >-
   Vídeos, tutoriais, walkthroughs e muito mais!
 
-# Repository
-#repo_name: squidfunk/mkdocs-material
-#repo_url: https://github.com/squidfunk/mkdocs-material
+# Repositorio =====================================================================================
+repo_name: jix-AQW/site
+repo_url: https://github.com/jix-AQW/site
+edit_uri: edit/main/docs/
+view_uri: edit/main/docs/
 
-# Copyright
-# copyright: Copyright &copy; 2016 - 2025 Martin Donath
+# Copyright =======================================================================================
 
-# Configuration
+copyright: Copyright &copy; 2025 - Arthur Calafange & Marcel 'PineOak' Carvalho
+
+# Configuração ====================================================================================
+
 theme:
   name: material
   language: pt
-  
   features:
+    - content.action.edit
     - announce.dismiss
     - content.action.edit
     - content.action.view
@@ -70,25 +74,30 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
-        name: Switch to light mode
+        name: Trocar para modo Claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode
+        name: Trocar para modo Escuro 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: purple
       toggle:
         icon: material/toggle-switch-off
-        name: Switch to system preference
+        name: Trocar para a preferência do sistema
   font:
     text: Roboto
     code: Roboto Mono
   logo: logomr.png
+  icon:
+    edit: material/pencil 
+    view: material/eye
+
+# Navegação ===================================================================================================
 
 #nav:
 #  - Início: index.md
@@ -103,8 +112,15 @@ theme:
   #icon:
   #  logo: logo
 
-# Plugins
+# Plugins ====================================================================================================
+
 plugins:
+  #- git-committers:
+  #    repository: jix-AQW/site
+  #    branch: main
+  #- git-revision-date-localized:
+  #    enable_creation_date: true
+  #- git-authors
   - blog:
       enabled: true
       post_date_format: medium # Jan 31, 2024
@@ -119,9 +135,17 @@ plugins:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   #- minify:
   #    minify_html: true
+  - offline
 
-# Additional configuration
+# Configurações Extras ==================================================================== 
 extra:
+  alternate:
+    - name: Português
+      link: /pt/ 
+      lang: pt
+    - name: English
+      link: /en/
+      lang: en
   status:
     new: Recently added
     deprecated: Deprecated
@@ -131,12 +155,20 @@ extra:
   social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@jixaqw
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/jixaqw
+    - icon: fontawesome/brands/whatsapp
+      link: https://chat.whatsapp.com/Lau9dPjAkxL...
     - icon: fontawesome/brands/discord
       link: https://discord.gg/uc9y27NYTp
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/jixaqw
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Jix-AQW/site
+  consent:
+    title: Cookie consent
+    description: >- 
+      Nós usamos cookies para reconhecer suas visitas repetidas e preferências, assim como para medir a eficácia da nossa documentação e se os usuários encontram o que estão procurando. Com seu consentimento, você nos ajuda a tornar nossa documentação melhor..
 
-# Extensions
+# Extensões =====================================================================================
 markdown_extensions:
   - abbr
   - admonition
@@ -164,8 +196,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
+      user: jix0aqw
+      repo: site
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:

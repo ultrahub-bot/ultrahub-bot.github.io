@@ -1,6 +1,36 @@
 # Sobre
 ---
 
-Marcel ‘Pineoak’ Carvalho is a versatile professional. He works as a writer, composer, audio designer, and game developer. Currently, he is studying at the School of Music of the Federal University of Rio Grande do Norte.
+## Jix's AQWorlds Handbook
+Criado em abril de 2025, o **Jix's AQWorlds Handbook** visa fornecer guias sobre vários aspectos do MMORPG Adventure Quest Worlds.
 
-In 2017, he created his first game, “Terminal: Introspection”, and joined Brazilian game development communities. He also co-founded “Projeto A Rua”, bringing popular music to the streets of Natal. Marcel has expanded his activities to produce music and sound effects for video clips, short films, and various artists. In 2021, he became the community manager for the “Akumi Wars” project. He has also produced music and sound effects for the game “Mr. Dice Guy” and composed the soundtrack for the renowned RPG “Adventure Quest” in 2023. Marcel has been involved in creating soundtracks, sound effects, and narratives for various RPG, adventure, and platform games.
+### Criadores
+
+#### Jix
+Criador de conteúdo hardfarm e officer da guilda Era do Gelo.
+#### Pen
+Líder da guilda HollowInk.
+
+### Missão, Visão e Valores (MVV)
+#### Missão
+Fornecer à comunidade brasileira de Adventure Quest Worlds (AQW) um compêndio colaborativo, acessível e atualizado de guias, estratégias e informações essenciais, facilitando a jornada de jogadores de todos os níveis e promovendo a troca de conhecimento coletivo.
+
+#### Visão
+Ser reconhecidos como uma referência global para AQW, mantido e enriquecido pela própria comunidade, garantindo que todo jogador tenha as ferramentas necessárias para explorar, evoluir e aproveitar ao máximo o universo do jogo.
+
+#### Valores
+- **Colaboração:** Acreditamos no poder da comunidade. Todos podem contribuir, compartilhar expertise e aprimorar o conhecimento coletivo.
+- **Acessibilidade:** Priorizamos a clareza, a organização e a disponibilidade gratuita, garantindo que informações úteis cheguem a todos os jogadores.
+- **Atualização Contínua:** Comprometemo-nos a acompanhar as mudanças do jogo, mantendo o conteúdo relevante e preciso.
+- **Respeito à Diversidade:** Valorizamos diferentes estilos de jogo, desde iniciantes até veteranos, e incentivamos um ambiente inclusivo e respeitoso.
+- **Paixão por AQW:** Nossa motivação vem do amor pelo jogo e pelo desejo de fortalecer sua comunidade.
+
+## Créditos
+- [AQWorlds Cangaceiros](https://aqwcangaceiros.wordpress.com/)
+- [AQWHub](https://www.aqwhub.com/)
+- [AQWWiki](https://aqwwiki.wikidot.com/)
+- [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+## Agradecimentos
+- FWards
+- ScorpionCosmic

@@ -1,21 +1,9 @@
-# Welcome 
+# Boas vindas! 
 
-This is a page.
+Neste site, você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds.
 
-<div class="grid cards" markdown>
+Você poderá estar contribuindo para este guia de bolso no Github ou entrando no nosso Discord e fazendo uma sugestão.
 
-- :fontawesome-brands-html5: __Gratis__ for content and structure
-- :fontawesome-brands-js: __Blog__ for interactivity
-- :fontawesome-brands-css3: __Projetos__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
 
-</div>
-
-!!! note annotate "Teste"
-
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus (1), justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
+!!! warning annotate "Em desenvolvimento"
+    Este site ainda está sendo construído, então paciência! :)

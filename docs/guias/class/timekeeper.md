@@ -8,14 +8,13 @@ categories:
   - Tutorial
 tags:
   - class
-readtime: 
-pin: true
-thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
-excerpt: Uma descrição curta do post.
+# readtime: 
+# pin: true
+# thumbnail: 
+# excerpt: Uma descrição curta do post.
 social_share: true
-related_posts:
-  - 20250305-ost-jam.md
-draft: true
+# related_posts:
+# draft: true
 ---
 
 # TimeKeeper
@@ -50,7 +49,5 @@ Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et 
 Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 
 ## Referências Bibliográficas
-
-
 - Canal do THD
 - Canal do Fwards

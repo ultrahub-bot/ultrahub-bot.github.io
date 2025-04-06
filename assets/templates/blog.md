@@ -3,23 +3,17 @@ date:
   created: 2025-03-05
   updated: 2025-03-05
 authors:
-  - pen
   - jix
 categories:
   - Novidade
 tags:
-  - new
-  - year
-  - hogmanay
-  - festive
-  - season
+  - tags
 readtime: 
-pin: true
-thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
+pin: false
+thumbnail:
 excerpt: Uma descrição curta do post.
 social_share: true
 related_posts:
-  - 20250305-ost-jam.md
 draft: true
 ---
 
