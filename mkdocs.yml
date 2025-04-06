@@ -121,6 +121,7 @@ plugins:
   #- git-revision-date-localized:
   #    enable_creation_date: true
   #- git-authors
+
   - blog:
       enabled: true
       post_date_format: medium # Jan 31, 2024
@@ -130,12 +131,10 @@ plugins:
         - Novidade
         - Tutorial
         - Walkthrough
-        #- Falatu
+  - offline
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  #- minify:
-  #    minify_html: true
-  - offline
+  - tags
 
 # Configurações Extras ==================================================================== 
 extra:
@@ -149,9 +148,20 @@ extra:
   status:
     new: Recently added
     deprecated: Deprecated
-  #analytics:
-    #provider: google
-    #property: !ENV GOOGLE_ANALYTICS_KEY
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+    feedback:
+      title: Esta página foi útil?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Sim
+          data: 1
+          note: Obrigado pelo feedback!
+        - icon: material/thumb-down-outline
+          name: Não
+          data: 0
+          note: Ajude-nos a melhorar <a href="...">enviando sugestões</a>.
   social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@jixaqw
