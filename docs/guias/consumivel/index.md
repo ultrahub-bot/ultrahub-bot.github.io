@@ -1,21 +1,9 @@
-# Welcome 
+# Consumíveis
+---
+Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds.
 
-This is a page.
+## ELIXIR, TONIC & POTIONS - COMO ESCOLHER CONSUMÍVEIS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zzmp3azwedk?si=W1xxYvuB8pcXBjjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __Gratis__ for content and structure
-- :fontawesome-brands-js: __Blog__ for interactivity
-- :fontawesome-brands-css3: __Projetos__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-
-!!! note annotate "Teste"
-
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus (1), justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
+## ESSAS SÃO AS MELHORES SCROLLS DO AQW!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VV33fB9NaQ?si=tTB9jsem-NeFH2aR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
