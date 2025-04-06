@@ -34,3 +34,8 @@ jobs:
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}  # Segredo obrigatório
         run: mkdocs gh-deploy --force
         
+      - name: Verificar substituição
+        run: |
+          echo "Chave GA: ${{ secrets.GOOGLE_ANALYTICS_KEY }}"
+          mkdocs build --verbose
+          grep -rin "G-" site/*  # Procura o ID no HTML gerado
