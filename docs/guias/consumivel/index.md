@@ -9,7 +9,8 @@ Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. El
 - **Food (Comida):** Embora menos comuns, são consumíveis que podem fornecer benefícios variados, como restauração de HP ou MP, ou aumentos temporários em certos atributos.
 
 
-Referências
+## Referências
+
 ELIXIR, TONIC & POTIONS - COMO ESCOLHER CONSUMÍVEIS
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zzmp3azwedk?si=W1xxYvuB8pcXBjjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
