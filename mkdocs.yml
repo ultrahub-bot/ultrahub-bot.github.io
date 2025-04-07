@@ -148,7 +148,7 @@ extra:
     deprecated: Deprecated
   analytics:
     provider: google
-    property: G-7VV4N2B7CT
+    property: G-MS5X0B1DTN
     feedback:
       title: Esta página foi útil?
       ratings:
