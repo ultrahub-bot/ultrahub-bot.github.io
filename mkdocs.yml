@@ -120,6 +120,21 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
   - git-authors:
+        show_contribution: true
+        show_line_count: false
+        show_email_address: false
+        href: "mailto:{email}"
+        count_empty_lines: false
+        fallback_to_empty: false
+        sort_authors_by: name
+        authorship_threshold_percent: 10
+        ignore_authors:
+        ignore_commits: .git-blame-ignore-revs
+        exclude:
+            - index.md
+        enabled: true
+        #enabled_on_serve: true
+        #strict: true
   - blog:
       enabled: true
       post_date_format: medium # Jan 31, 2024
