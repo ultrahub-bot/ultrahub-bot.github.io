@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2025-03-05
+  created: 2020-03-05
   updated: 2025-03-05
 authors:
   - pen
@@ -17,6 +17,7 @@ social_share: true
 related_posts:
   - 20250305-ost-jam.md
 draft: true
+show: false
 ---
 # Exemplo de Formatação de Texto
 

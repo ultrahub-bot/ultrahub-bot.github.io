@@ -129,6 +129,7 @@ plugins:
       blog_toc: true
       categories_allowed:
         - Novidade
+        - Video
         - Tutorial
         - Walkthrough
   - offline
