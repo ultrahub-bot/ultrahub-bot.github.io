@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - run: pip install mkdocs mkdocs-material
+      - run: pip install mkdocs mkdocs-material git-revision-date-localized
 
       # Configura o Git corretamente ↓
       - name: Configure Git
