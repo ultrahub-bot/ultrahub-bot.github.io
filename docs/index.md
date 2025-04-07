@@ -28,3 +28,37 @@ Neste site, você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um 
 
 Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord](https://discord.gg/uc9y27NYTp) e fazendo uma sugestão.
 
+```mermaid
+---
+config:
+  theme: dark
+---
+mindmap
+  root((Site))
+    Sobre
+    Blog
+        Posts
+    Guia
+        Geral
+        Classes
+        Enhancements
+            AWE
+            Forge
+            Normal
+        Ultra Bosses
+            Ultra Darkon
+            Ultra Nulgath
+            Ultra Champion Drakath
+        Dungeons
+            GrimSkull
+            TempleShrine
+        Consumíveis
+            Potions
+            Elixirs
+            Tonics
+            Scrolls
+            Foods
+        Itens
+            Blade of Awe
+
+```
