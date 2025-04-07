@@ -1,4 +1,5 @@
 ---
+#title: "Título da Página Completa"
 date:
   created: 2024-12-13
   updated: 2025-04-06
@@ -7,14 +8,22 @@ authors:
 categories:
   - Novidade
 tags:
-  - tags
-readtime: 
-pin: false
-thumbnail:
-excerpt: Uma descrição curta do post.
+  - exemplo
+readtime: 5
+pin: true
+thumbnail: "/imagens/thumbnail.jpg"
+excerpt: "Uma descrição curta da página."
 social_share: true
-related_posts:
-draft: true
+related_posts: []  # Em páginas, normalmente não há posts relacionados
+draft: false
+description: "Esta é uma descrição detalhada da página para uso em meta tags e SEO."
+keywords:
+  - mkdocs
+  - material
+  - documentação
+layout: "page"
+nav_order: 1
+hidden: false
 ---
 
 # Archmage vs Arcana Invoker: quem é a vencedora?

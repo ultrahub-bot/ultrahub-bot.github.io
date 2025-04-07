@@ -1,3 +1,16 @@
+---
+title: Sobre
+authors:
+  - pen
+date: 2025-04-06
+#tags:
+#  - sobre
+social_share: true
+hide:
+  #- toc
+  - navigation
+---
+
 # Sobre
 ---
 

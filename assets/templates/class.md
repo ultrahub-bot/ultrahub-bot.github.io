@@ -19,8 +19,6 @@ related_posts:
 
 Texto que ficará aparecendo na página principal do blog antes do leia.
 
-<!-- more -->
-
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
     src="https://www.youtube.com/embed/oHVfeRw6cZU?si=a1dJ5I76tmzFz_QH" 

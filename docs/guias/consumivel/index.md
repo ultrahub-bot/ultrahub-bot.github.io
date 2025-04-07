@@ -1,5 +1,7 @@
 # Consumíveis
 ---
+!!! tip "Dica"
+    Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
 
 ## Introdução
 Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. Eles se dividem em algumas categorias:

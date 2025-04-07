@@ -1,3 +1,22 @@
+---
+title: Início
+authors:
+  - pen
+date: 2025-04-06
+#tags:
+#  - sobre
+keywords:
+    - aqworlds
+    - ultra
+    - tutorial
+    - dungeon
+    - hardfarm
+social_share: true
+hide:
+  - toc
+  - navigation
+---
+
 # Início
 ---
 
