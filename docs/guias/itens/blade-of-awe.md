@@ -35,7 +35,9 @@ social_share: true
     Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
 
 ## Introdução
-A Blade of Awe no AdventureQuest Worlds (AQW) é uma das armas mais icônicas e nostálgicas do universo AdventureQuest, originalmente vinda do jogo AdventureQuest Classic. 
+A **Blade of Awe** no AdventureQuest Worlds (AQW) é uma das armas mais icônicas e nostálgicas do universo AdventureQuest, originalmente vinda do jogo AdventureQuest Classic. 
+
+Ao desbloqueá-la, o jogador terá acesso aos aprimoramentos [AWE](../enhancements/awe/index.md).
 
 ## Requisitos
 Para obter esses encantamentos o jogador deve atender a um dos seguintes requisitos:

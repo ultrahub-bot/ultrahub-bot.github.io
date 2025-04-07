@@ -84,8 +84,8 @@ theme:
         name: Trocar para modo Escuro 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: purple
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch-off
         name: Trocar para a preferência do sistema
