@@ -1,21 +1,34 @@
-# Welcome 
-
-This is a page.
-
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __Gratis__ for content and structure
-- :fontawesome-brands-js: __Blog__ for interactivity
-- :fontawesome-brands-css3: __Projetos__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-
-!!! note annotate "Teste"
-
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus (1), justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
+---
+#title: Início
+authors:
+  - pen
+  - jix
+date: 2025-04-07
+#tags:
+#  - sobre
+keywords:
+    - aqworlds
+    - awe
+    - awe enhancements
+    - aqw enhancements
+    - powerword die
+    - spiral carve
+    - mana vamp
+    - health vamp
+    - aqw guide
+    - awe tutorial
+    - aqw upgrades
+    - artix weapon enhancements
+    - best awe enhancements
+    - how to get awe enhancements
+    - blade of awe
+description:
+social_share: true
+#hide:
+#  - toc
+#  - navigation
+---
+# Normal
+---
+!!! tip "Dica"
+    Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).

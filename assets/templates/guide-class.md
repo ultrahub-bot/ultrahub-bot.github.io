@@ -1,19 +1,21 @@
 ---
-date:
-  created: 2025-03-05
-  updated: 2025-03-05
+#title: Início
 authors:
   - jix
-categories:
-  - Tutorial
-tags:
-  - class
-readtime: 
-pin: true
-thumbnail: https://marketplace.canva.com/EAFf5rfnPgA/1/0/800w/canva-blue-modern-eye-catching-vlog-youtube-thumbnail-XTJTyike0CE.jpg
-excerpt: Uma descrição curta do post.
+date: 2025-04-06
+#tags:
+#  - sobre
+keywords:
+    - aqworlds
+    - dungeon
+    - aqw dungeon
+    - templeshrine
+    - grimskull
+description: 
 social_share: true
-related_posts:
+#hide:
+#  - toc
+#  - navigation
 ---
 # TimeKeeper
 
