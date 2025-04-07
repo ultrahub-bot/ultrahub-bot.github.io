@@ -10,7 +10,6 @@ hide:
   #- toc
   - navigation
 ---
-
 # Sobre
 ---
 

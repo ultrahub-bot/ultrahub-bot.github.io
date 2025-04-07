@@ -41,7 +41,6 @@ theme:
   name: material
   language: pt
   features:
-    - content.action.edit
     - announce.dismiss
     - content.action.edit
     - content.action.view
@@ -118,10 +117,9 @@ plugins:
   #- git-committers:
   #    repository: jix-AQW/site
   #    branch: main
-  #- git-revision-date-localized:
-  #    enable_creation_date: true
-  #- git-authors
-
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-authors:
   - blog:
       enabled: true
       post_date_format: medium # Jan 31, 2024
@@ -132,20 +130,20 @@ plugins:
         - Video
         - Tutorial
         - Walkthrough
-  - offline
+  - offline:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - tags
-
+  - tags:
+  - autorefs:
 # Configurações Extras ==================================================================== 
 extra:
-  alternate:
-    - name: Português
-      link: /pt/ 
-      lang: pt
-    - name: English
-      link: /en/
-      lang: en
+  #alternate:
+  #  - name: Português
+  #    link: /pt/ 
+  #    lang: pt
+  #  - name: English
+  #    link: /en/
+  #    lang: en
   status:
     new: Recently added
     deprecated: Deprecated
