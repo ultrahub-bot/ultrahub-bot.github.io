@@ -115,7 +115,6 @@ theme:
 
 plugins:
   #- git-committers:
-  - sitemap:
   #    repository: jix-AQW/site
   #    branch: main
   - git-revision-date-localized:
