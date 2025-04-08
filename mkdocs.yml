@@ -115,6 +115,7 @@ theme:
 
 plugins:
   #- git-committers:
+  - sitemap:
   #    repository: jix-AQW/site
   #    branch: main
   - git-revision-date-localized:
@@ -136,6 +137,7 @@ plugins:
   - autorefs:
 # Configurações Extras ==================================================================== 
 extra:
+  robots.txt: robots.txt  # Se estiver na pasta "docs/"
   #alternate:
   #  - name: Português
   #    link: /pt/ 
