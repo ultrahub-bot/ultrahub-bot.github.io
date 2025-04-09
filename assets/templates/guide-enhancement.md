@@ -11,6 +11,7 @@ keywords:
     - aqw dungeon
     - templeshrine
     - grimskull
+    - ultra boss
 description: 
 social_share: true
 #hide:

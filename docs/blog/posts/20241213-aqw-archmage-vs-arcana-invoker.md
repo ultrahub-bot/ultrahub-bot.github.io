@@ -9,6 +9,7 @@ categories:
 tags:
   - Archmage
   - Arcana Invoker
+  - Ultra Boss
 readtime: 
 pin: false
 thumbnail:

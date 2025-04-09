@@ -19,8 +19,8 @@
 # IN THE SOFTWARE.
 
 # Geral ===========================================================================================
-site_name: Jix's AQWorlds Handbook
-site_url: https://github.com/Jix-AQW/site
+site_name: Jix - AQWorlds Handbook
+site_url: https://jix-aqw.github.io/site/
 site_author: Arthur Calafange & Marcel 'PineOak' Carvalho
 site_description: >-
   Vídeos, tutoriais, walkthroughs e muito mais!
@@ -97,28 +97,18 @@ theme:
     view: material/eye
 
 # Navegação ===================================================================================================
-
-#nav:
-#  - Início: index.md
-#  - Guia:
-#      - Introdução: guia/introducao.md
-#      - Instalação: guia/instalacao.md
-#  - API:
-#      - Autenticação: api/autenticacao.md
-#      - Endpoints: api/endpoints.md 
-
-  #favicon: assets/favicon.png
-  #icon:
-  #  logo: logo
-
+#
 # Plugins ====================================================================================================
 
 plugins:
+  - rss
+  - awesome-nav:  
   #- git-committers:
   #    repository: jix-AQW/site
   #    branch: main
-  - git-revision-date-localized:
-      enable_creation_date: true
+  - table-reader:
+  #- git-revision-date-localized:
+  #    enable_creation_date: true
   - blog:
       enabled: true
       post_date_format: medium # Jan 31, 2024
@@ -133,6 +123,22 @@ plugins:
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - tags:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - custom-skip-class-name
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
   - autorefs:
 # Configurações Extras ==================================================================== 
 extra:

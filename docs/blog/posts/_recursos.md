@@ -157,5 +157,6 @@ Pressione ++ctrl+alt+d++ para reiniciar
 ```
 Pressione ++ctrl+alt+d++ para reiniciar
 
-
+### Tabela lida de Arquivo
+{{ read_csv('assets/table-ultra-dage-comp-1.csv') }}
 

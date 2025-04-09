@@ -1,5 +1,6 @@
 ---
 #title: Início
+#icon: material/fire-circle
 authors:
   - jix
 date: 2025-04-06

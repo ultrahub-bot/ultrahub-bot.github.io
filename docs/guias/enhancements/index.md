@@ -1,3 +1,6 @@
+---
+#icon: fontawesome/solid/scroll
+---
 # Enhancements
 ---
 !!! tip "Dica"

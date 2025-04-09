@@ -41,11 +41,25 @@ Salve rapaziada fala tu! Jix novamente desta vez trazendo um tutorial ou guia de
 
 Esse ultra facilita muito o farm da Legion Revenant,te permite pegar Caladbolg na versão 51%, Necrotic Blade of the Underworld e muito mais!
 
+Neste *boss*, você realmente não pode curar com magias de cura normais ou curas ao longo do tempo (HoT) por causa do debuff de Decay. É possível se você acertar o tempo certo, mas corre o risco de matar seu grupo. Você pode usar a interface de Auras para monitorar o debuff de Decay, mas a janela para curar é extremamente pequena. É recomendado usar o aprimoramento AWE Health Vamp aqui, mas se a sua classe tiver algum tipo de cura parecida com ela, você não precisará dele.
+
+O Ultra Dage tem uma mecânica parecida com a do Ledgermayne, onde há duas plataformas, uma no canto inferior esquerdo e outra no inferior direito, e você deve se mover para elas imediatamente quando elas acenderem, ou vai tomar um ataque devastador. Toda vez que Dage mata um jogador, ele cura 500 mil de HP, sendo o contador reiniciado após 3 mortes
+
 ## Requisitos
 Requisitos aqui.
 
 ## Composições
-Composições aqui.
+Estas são as composições recomendadas para poder derrotar o ultra Dage:
+
+=== "Composição 1"
+    {{ read_csv('../assets/table-ultra-dage-comp-1.csv') }}
+
+===+ "Composição 2"
+    {{ read_csv('../assets/table-ultra-dage-comp-2.csv') }}  
+
+===+ "Composição 3"
+    {{ read_csv('../assets/table-ultra-dage-comp-3.csv') }}  
+
 
 ## Considerações Finais
 É isso.
