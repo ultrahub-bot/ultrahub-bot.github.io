@@ -166,7 +166,7 @@ extra:
         - icon: material/thumb-down-outline
           name: Não
           data: 0
-          note: Ajude-nos a melhorar <a href="...">enviando sugestões</a>.
+          note: Ajude-nos a melhorar <a href="https://discord.gg/uc9y27NYTp">enviando sugestões</a>.
   social:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@jixaqw
