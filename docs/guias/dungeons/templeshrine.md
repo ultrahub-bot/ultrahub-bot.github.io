@@ -41,9 +41,13 @@ Salve rapaziada, fala tu! Jix novamente trazendo um tutorial de como fazer templ
 Requisitos aqui.
 
 ## Composições
-- Sugestão de classes na Lua: Verus Doomknight, Lord of order + 2 classes físicas (Void Highlord, Chaos Avenger, Chrono Shadowhunter, Great Thief, Archfiend, exalted harbinger, Archpaladin)
-- Sugestão de classes no Sol: Legion revenant, Lord of order + 2 classes mágicas (Archpaladin, Dragon of time, Shaman, Arcana Invoker)
-- Sugestão de classes no Eclipse: Legion Revenant, Lord of Order, Archpaladin + classe DPS AOE (Arcana Invoker, Shaman, Dragon of Time)
+
+### Lua
+Verus Doomknight, Lord of order + 2 classes físicas (Void Highlord, Chaos Avenger, Chrono Shadowhunter, Great Thief, Archfiend, exalted harbinger, Archpaladin)
+### Sol
+Legion revenant, Lord of order + 2 classes mágicas (Archpaladin, Dragon of time, Shaman, Arcana Invoker
+### Eclipse
+Legion Revenant, Lord of Order, Archpaladin + classe DPS AOE (Arcana Invoker, Shaman, Dragon of Time
 
 ## Considerações Finais
 É isso.
