@@ -34,7 +34,7 @@ hide:
                     headerToolbar: {
                         left: 'prev,next today',
                         center: 'title',
-                        right: 'dayGridMonth,listWeek,timeGridDay'
+                        right: 'multiMonthYear,dayGridMonth,listWeek,timeGridDay'
                     },
                     views: {
                         listWeek: {
@@ -45,6 +45,9 @@ hide:
                         },
                         timeGridDay: {
                             buttonText: 'Dia'
+                        },
+                        multiMonthYear: {
+                            buttonText: 'Ano'
                         }
                     },                    
                     fixedWeekCount: false,
@@ -53,7 +56,7 @@ hide:
                     eventLimit: true,
                     eventSources: [
                       {
-                        url: 'assets/calendar/aqw.json',
+                        url: '../assets/calendar/aqw.json',
                         failure: () => alert('Falha ao carregar aqw.json')
                       }
                     ]
