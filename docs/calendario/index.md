@@ -1,15 +1,16 @@
 ---
 #title:
 #icon:
-description: Um guia completo de classes em AQWorlds! Descubra como dominar ArchMage, Arcana Invoker e outras. Melhore sua gameplay com builds e encantamentos certos!
+description: Veja quando acontecerá os próximos boosts de gold, exp, rep, no Adventure Quest Worlds.
 authors:
-  - jix
+  - pen
 date: 2025-04-08
 keywords:
-    - aqw classes tutorial
-    - aqw como usar classe
-    - aqw legion revenant
-    - aqw class combo
+    - aqw calendario de eventos
+    - aqw quando tem boost de rep
+    - aqw quando tem boost de exp
+    - aqw quando tem boost de gold
+    - aqw quando tem boost de class point (cp)
 tags:
 social_share: true
 hide:
