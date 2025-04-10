@@ -1,5 +1,6 @@
 ---
 #title: Início
+#icon:
 authors:
   - jix
 date: 2025-04-06
@@ -11,7 +12,7 @@ keywords:
     - aqw dungeon
     - templeshrine
     - grimskull
-description: 
+description: Descubrcomo fazer o mapa /gaolcell, mais conhecido como GRIMSKULL Dungeon!
 social_share: true
 #hide:
 #  - toc

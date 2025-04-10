@@ -11,7 +11,7 @@ keywords:
     - aqw dungeon
     - templeshrine
     - grimskull
-description: 
+description: Com fazer /templeshrine pra conseguir a Greatblade of Entwined Eclipse no AQW!
 social_share: true
 #hide:
 #  - toc
@@ -34,7 +34,7 @@ social_share: true
   ></iframe>
 </div>
 
-## Intrdução
+## Introdução
 Salve rapaziada, fala tu! Jix novamente trazendo um tutorial de como fazer templeshrine pra conseguir a Greatblade of Entwined Eclipse no AQW!
 
 ## Requisitos

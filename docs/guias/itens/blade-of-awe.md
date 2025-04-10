@@ -1,10 +1,12 @@
 ---
-#title: Início
+title: Blade of Awe
+icon:
+description: Descubra como obter a Blade of Awe em AdventureQuest Worlds. Este guia detalhado fornece os passos necessários para desbloquear essa arma icônica e acessar os aprimoramentos AWE.
 authors:
   - pen
   - jix
 date: 2025-04-07
-#tags:
+tags:
 #  - sobre
 keywords:
     - aqworlds
@@ -18,13 +20,16 @@ keywords:
     - aqw guide
     - awe tutorial
     - aqw upgrades
-    - artix weapon enhancements
     - best awe enhancements
     - how to get awe enhancements
     - blade of awe
-description:
+    - find the hilt aqw
+    - find the stonewrit aqw
+    - find the handle aqw
+    - find the blade aqw
+    - finde the runes aqw
 social_share: true
-#hide:
+hide:
 #  - toc
 #  - navigation
 ---

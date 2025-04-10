@@ -1,16 +1,32 @@
 ---
 title: Guias
+icon:
+description: Descubra guias completos de AQWorlds! Aprenda sobre classes, ultra bosses, dungeons, reputações e muito mais. Melhore seu jogo com tutoriais práticos.
 authors:
   - pen
 date: 2025-04-06
-#tags:
-#  - sobre
+tags:
+#  - guias AQW
+#  - tutoriais AdventureQuest Worlds
 keywords:
-    - aqworlds
-    - ultra
-    - tutorial
-    - dungeon
-    - hardfarm
+  - aqworlds guias
+  - aqw tutoriais
+  - aqw classes
+  - aqw ultra bosses
+  - aqw dungeons
+  - aqw reputações
+  - aqw aprimoramentos
+  - aqw consumíveis
+  - aqw itens raros
+  - aqw estratégias de jogo
+  - aqw hard farm
+  - aqw melhores builds
+  - aqw dicas para iniciantes
+  - aqw como jogar
+  - aqw guia de reputação
+  - aqw guia de aprimoramentos
+  - aqw guia de consumíveis
+  - aqw guia de itens
 social_share: true
 hide:
   - toc
@@ -80,7 +96,6 @@ Neste guia, você encontrará informações sobre ultras, classes, dungeons, rep
     Métodos eficientes para aumentar sua reputação nas diversas facções.
 
     :octicons-arrow-right-24: [Reputação](./reputacao/index.md)
-
 
 </div>
 

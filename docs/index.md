@@ -1,9 +1,10 @@
 ---
 title: Início
+icon:
 authors:
   - pen
 date: 2025-04-06
-#tags:
+tags:
 #  - sobre
 keywords:
     - aqworlds

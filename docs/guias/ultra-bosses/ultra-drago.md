@@ -1,19 +1,28 @@
 ---
-#title: Início
+title: Ultra Drago
+icon:
+description: Aprenda estratégias eficazes para derrotar o Ultra Drago em AQWorlds. Este guia detalhado oferece composições de equipe, requisitos e dicas essenciais para enfrentar esse desafio.
 authors:
   - jix
 date: 2025-04-06
-#tags:
-#  - sobre
+tags:
+#  - ultra drago
+#  - guia aqw
+#  - tutorial ultra boss
 keywords:
-    - aqworlds
-    - dungeon
-    - aqw ultra boss
-    - ultra drago
-    - darkon
-description: 
+  - aqworlds
+  - aqw ultra boss
+  - ultra drago
+  - como derrotar ultra drago
+  - guia ultra drago aqw
+  - estratégias ultra drago
+  - composições ultra drago
+  - classes para ultra drago
+  - dicas ultra drago aqw
+  - darkon aqw
+  - ultra boss aqw
 social_share: true
-#hide:
+hide:
 #  - toc
 #  - navigation
 ---

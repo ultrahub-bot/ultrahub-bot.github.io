@@ -1,7 +1,7 @@
 ---
-title:
-icon:
-description:
+#title:
+#icon:
+description: Aprenda tudo sobre as Dugeons do Adventure Quest Worlds! Templeshire, Grimskull e mais.
 authors:
   - pen
 date: 2025-04-08

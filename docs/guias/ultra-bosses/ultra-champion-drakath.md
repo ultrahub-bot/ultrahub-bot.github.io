@@ -1,22 +1,29 @@
 ---
-#title: Início
-#icon: material/fire-circle
+title: Champion Drakath
+icon:
+description: Aprenda estratégias eficazes para derrotar o Champion Drakath em AQWorlds. Este guia detalhado oferece composições de equipe, requisitos e dicas essenciais para enfrentar esse desafio e facilitar a obtenção da classe Chaos Avenger.
 authors:
   - jix
 date: 2025-04-06
-#tags:
-#  - sobre
+tags:
+#  - champion drakath
+#  - guia aqw
+#  - tutorial ultra boss
 keywords:
-    - aqworlds
-    - champion drakath
-    - como pegar chaos avenger
-    - chaos avenger
-    - aqw ultra boss
-    - ultra drakath
-    - taunt
-description: 
+  - aqworlds
+  - aqw ultra boss
+  - champion drakath
+  - como derrotar champion drakath
+  - guia champion drakath aqw
+  - estratégias champion drakath
+  - composições champion drakath
+  - classes para champion drakath
+  - dicas champion drakath aqw
+  - chaos avenger
+  - como obter chaos avenger
+  - taunt
 social_share: true
-#hide:
+hide:
 #  - toc
 #  - navigation
 ---

@@ -1,9 +1,9 @@
 ---
-title:
-icon:
-description:
+#title:
+#icon:
+description: Um guia completo de classes em AQWorlds! Descubra como dominar ArchMage, Arcana Invoker e outras. Melhore sua gameplay com builds e encantamentos certos!
 authors:
-  - pen
+  - jix
 date: 2025-04-08
 keywords:
     - aqw classes tutorial
@@ -12,6 +12,8 @@ keywords:
     - aqw class combo
 tags:
 social_share: true
+hide:
+
 ---
 # Classes
 ---

@@ -9,3 +9,4 @@ mkdocs-table-reader-plugin
 mkdocs-glightbox 
 mkdocs-rss-plugin 
 mkdocs-awesome-nav
+mkdocs-macros-plugin

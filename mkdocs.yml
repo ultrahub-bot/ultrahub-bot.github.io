@@ -141,6 +141,11 @@ plugins:
       manual: false
   - autorefs:
 # Configurações Extras ==================================================================== 
+extra_css:
+  - https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.min.css
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js
+
 extra:
   robots.txt: robots.txt  # Se estiver na pasta "docs/"
   #alternate:

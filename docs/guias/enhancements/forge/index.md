@@ -1,11 +1,11 @@
 ---
-#title: Início
+#title: Aprimoramentos Awe
+#icon:
 authors:
   - pen
   - jix
 date: 2025-04-07
-#tags:
-#  - sobre
+tags:
 keywords:
     - aqworlds
     - forge
@@ -17,11 +17,10 @@ keywords:
     - artix weapon enhancements
     - best forge enhancements
     - how to get forge enhancements
-description:
+description: Aprenda tudo sobre os enhancements Forge em AdventureQuest Worlds!
 social_share: true
-#hide:
-#  - toc
-#  - navigation
+hide:
+
 ---
 # Forge
 ---

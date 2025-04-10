@@ -1,10 +1,10 @@
 ---
-#title: Início
+#title: Aprimoramentos Awe
+icon:
 authors:
   - pen
 date: 2025-04-06
-#tags:
-#  - sobre
+tags:
 keywords:
     - aqworlds
     - awe
@@ -23,9 +23,7 @@ keywords:
     - blade of awe
 description: Aprenda tudo sobre os enhancements AWE em AdventureQuest Worlds! Neste guia completo, você vai descobrir como desbloquear habilidades poderosas como PowerWord Die e Spiral Carve, otimizar suas armas AWE, e dominar o combate em AQW. Dicas passo a passo para melhorar sua performance, subir de nível mais rápido e montar a melhor estratégia — perfeito para jogadores iniciantes e veteranos!
 social_share: true
-#hide:
-#  - toc
-#  - navigation
+hide:
 ---
 # Awe Enhancements 
 --- 

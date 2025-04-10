@@ -1,21 +1,29 @@
 ---
-#title: Início
+title: Ultra Dage
+icon:
+description: Aprenda estratégias eficazes para derrotar o Ultra Dage em AQWorlds. Este guia detalhado oferece composições de equipe, requisitos e dicas essenciais para enfrentar esse desafio e facilitar o farm da Legion Revenant.
 authors:
   - jix
 date: 2025-04-06
-#tags:
-#  - sobre
+tags:
+#  - ultra dage
+#  - guia aqw
+#  - tutorial ultra boss
 keywords:
-    - aqworlds
-    - como pegar legion revenant
-    - legion revenant
-    - aqw ultra boss
-    - ultra dage
-    - taunt
-    - dage the dark lord
-description: 
+  - aqworlds
+  - aqw ultra boss
+  - ultra dage
+  - como derrotar ultra dage
+  - guia ultra dage aqw
+  - estratégias ultra dage
+  - composições ultra dage
+  - classes para ultra dage
+  - dicas ultra dage aqw
+  - legion revenant
+  - farm legion revenant
+  - dage the dark lord
 social_share: true
-#hide:
+hide:
 #  - toc
 #  - navigation
 ---
