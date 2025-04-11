@@ -170,6 +170,20 @@
   },
   "active": "270c734a615cdaf0",
   "lastOpenFiles": [
+    "blog/posts",
+    "blog/index.md",
+    "blog",
+    "jornal/posts/_recursos.md",
+    "jornal/posts/author-pen.gif",
+    "jornal/posts/author-jix.jpg",
+    "jornal/posts/20250408-aqw-dauntless-ou-radiant-goddess-of-war.md",
+    "jornal/posts/20250404-aqw-chaos-avenger-ou-void-highlord.md",
+    "jornal/posts/20250403-aqw-unundead-goat-vs-ultra-bosses.md",
+    "jornal/posts/20250401-aqw-unundead-goat-e-hollowborn-no-class.md",
+    "jornal/posts/20241213-aqw-archmage-vs-arcana-invoker.md",
+    "jornal/index.md",
+    "jornal/posts",
+    "jornal",
     "guias/itens/index.md",
     "assets/css/calendar.css",
     "assets/css/Novo(a) Documento de Texto.txt",
@@ -178,9 +192,6 @@
     "assets/js/Novo(a) Documento de Texto.txt",
     "assets/js/Nova pasta",
     "assets/js",
-    "assets/Nova pasta",
-    "assets/css",
-    "assets/calendar/aqw.json",
     "calendario/index.md",
     "guias/itens/blade-of-awe.md",
     "guias/reputacao/index.md",
@@ -190,7 +201,6 @@
     "guias/ultra-bosses/ultra-drago.md",
     "guias/ultra-bosses/ultra-speaker.md",
     "guias/index.md",
-    "guias/classes/index.md",
-    "blog/index.md"
+    "guias/classes/index.md"
   ]
 }
