@@ -22,15 +22,59 @@ hide:
 
 !!! tip "Dica"
     Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
-
-<div id='calendar'></div>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 <div id="calendar">
   <div class="md-calendar-error" hidden></div>
 </div>
 
 <style>
+  /* Adicione estas regras para o tooltip */
+.event-tooltip {
+  position: absolute;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  padding: 1rem;
+  z-index: 1000;
+  box-shadow: var(--md-shadow-z2);
+  max-width: 300px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.event-tooltip.active {
+  opacity: 1;
+}
+
+.event-tooltip h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.6em;
+  color: var(--md-primary-fg-color);
+}
+
+.event-tooltip p {
+  margin: 0.3rem 0;
+  font-size: 1.3em;
+}
+
+.event-tooltip time {
+  display: block;
+  color: var(--md-default-fg-color--light);
+  font-size: 1.1em;
+}
 /* Estilos integrados ao Material Theme */
+.fc-event {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.fc-event:hover {
+  transform: translateY(-1px);
+  z-index: 100;
+}
 .fc {
   --fc-border-color: var(--md-default-fg-color--lightest);
   --fc-page-bg-color: var(--md-default-bg-color);
@@ -98,9 +142,12 @@ hide:
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    const tooltip = document.createElement('div');
+    tooltip.className = 'event-tooltip';
+    document.body.appendChild(tooltip);
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      initialView: 'listWeek',
+      initialView: 'dayGridMonth',
       locale: 'pt',
       headerToolbar: {
         left: 'prev,next today',
@@ -140,20 +187,59 @@ hide:
         icon.style.marginRight = '6px';
 
         if (title.includes('double rep')) {
-          icon.innerHTML = '🟢';
+          icon.innerHTML = '';
         } else if (title.includes('double exp')) {
-          icon.innerHTML = '🟣';
+          icon.innerHTML = '';
         } else if (title.includes('double gold')) {
-          icon.innerHTML = '🟡';
+          icon.innerHTML = '';
         } else if (title.includes('double class point')) {
-          icon.innerHTML = '🟥';
+          icon.innerHTML = '';
         }
 
         if (icon.innerHTML !== '') {
           info.el.querySelector('.fc-event-title')?.prepend(icon);
         }      
-      }
-    });
+      
+      // Tooltip hover
+      const element = info.el;
+      
+      element.addEventListener('mouseenter', (e) => {
+        const event = info.event;
+        const start = event.start?.toLocaleDateString('pt-BR', {
+          day: 'numeric',
+          month: 'short',
+          year: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+        
+        const end = event.end?.toLocaleDateString('pt-BR', {
+          day: 'numeric',
+          month: 'short',
+          year: 'numeric',
+          hour: '2-digit',
+          minute: '2-digit'
+        });
+
+        tooltip.innerHTML = `
+          <h3>${event.title}</h3>
+          ${event.extendedProps.description ? `<p>${event.extendedProps.description}</p>` : ''}
+          <time>🏁 Início: ${start}</time>
+          ${end ? `<time>🏳️ Término: ${end}</time>` : ''}
+        `;
+
+        // Posicionamento do tooltip
+        const rect = element.getBoundingClientRect();
+        tooltip.style.left = `${rect.left + window.scrollX}px`;
+        tooltip.style.top = `${rect.top + window.scrollY - tooltip.offsetHeight - 10}px`;
+        tooltip.classList.add('active');
+      });
+
+      element.addEventListener('mouseleave', () => {
+        tooltip.classList.remove('active');
+      });
+    }
+  });
 
     calendar.render();
   });
