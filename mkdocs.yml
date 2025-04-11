@@ -101,6 +101,7 @@ theme:
 # Plugins ====================================================================================================
 
 plugins:
+  - obsidian-interactive-graph:
   - rss:
   - awesome-nav:  
   - git-committers:
@@ -144,8 +145,12 @@ plugins:
 # Configurações Extras ==================================================================== 
 extra_css:
   - https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.min.css
+  - assets/stylesheets/interactive_graph.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js
+  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
+  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
+  - assets/javascripts/interactive_graph.js
 
 extra:
   robots.txt: robots.txt  # Se estiver na pasta "docs/"
