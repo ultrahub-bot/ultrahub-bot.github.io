@@ -134,6 +134,7 @@ hide:
       ],
 
       eventDidMount: function(info) {
+        
         const title = info.event.title.toLowerCase();
         const icon = document.createElement('span');
         icon.style.marginRight = '6px';
@@ -151,6 +152,9 @@ hide:
         if (icon.innerHTML !== '') {
           info.el.querySelector('.fc-event-title')?.prepend(icon);
         }
+
+      
+      
       }
     });
 
