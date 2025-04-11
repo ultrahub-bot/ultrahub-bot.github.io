@@ -101,14 +101,14 @@ theme:
 # Plugins ====================================================================================================
 
 plugins:
-  - rss
+  - rss:
   - awesome-nav:  
-  #- git-committers:
-  #    repository: jix-AQW/site
-  #    branch: main
+  - git-committers:
+      repository: jix-AQW/site
+      branch: main
   - table-reader:
-  #- git-revision-date-localized:
-  #    enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
   - blog:
       enabled: true
       blog_dir: jornal
