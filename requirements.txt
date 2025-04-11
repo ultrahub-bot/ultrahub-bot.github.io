@@ -10,3 +10,4 @@ mkdocs-glightbox
 mkdocs-rss-plugin 
 mkdocs-awesome-nav
 mkdocs-macros-plugin
+mkdocs-obsidian-interactive-graph-plugin
