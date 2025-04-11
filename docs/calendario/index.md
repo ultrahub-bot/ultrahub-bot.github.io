@@ -151,10 +151,7 @@ hide:
 
         if (icon.innerHTML !== '') {
           info.el.querySelector('.fc-event-title')?.prepend(icon);
-        }
-
-      
-      
+        }      
       }
     });
 
