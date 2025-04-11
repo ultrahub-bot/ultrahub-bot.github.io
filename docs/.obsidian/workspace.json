@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guias/itens/index.md",
+                "file": "calendario/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guias/itens/index.md",
+                "file": "calendario/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guias/itens/index.md",
+                "file": "calendario/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guias/itens/index.md",
+                "file": "calendario/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,15 +170,18 @@
   },
   "active": "270c734a615cdaf0",
   "lastOpenFiles": [
+    "guias/itens/index.md",
+    "assets/css/calendar.css",
+    "assets/css/Novo(a) Documento de Texto.txt",
+    "assets/js/calendar.js",
+    "assets/js/calendar.txt",
+    "assets/js/Novo(a) Documento de Texto.txt",
+    "assets/js/Nova pasta",
+    "assets/js",
+    "assets/Nova pasta",
+    "assets/css",
     "assets/calendar/aqw.json",
-    "assets/calendar/cal.py",
-    "assets/calendar/Novo(a) Documento de Texto.txt",
-    "assets/calendar/raw-aqw.json",
-    "assets/calendar",
-    "assets",
-    "Nova pasta",
     "calendario/index.md",
-    "calendario",
     "guias/itens/blade-of-awe.md",
     "guias/reputacao/index.md",
     "guias/ultra-bosses/index.md",
