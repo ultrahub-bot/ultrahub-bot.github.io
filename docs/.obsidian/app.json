@@ -1,1 +1,7 @@
-{}
+{
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "assets/attachments",
+  "trashOption": "local",
+  "newFileLocation": "current"
+}

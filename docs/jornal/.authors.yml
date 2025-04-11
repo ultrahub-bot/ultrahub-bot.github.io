@@ -7,13 +7,13 @@ authors:
   jix:
     name: Jix,
     description: Bagre Mestre
-    avatar: blog/author-jix.jpg
+    avatar: jornal/author-jix.jpg
 
   # Inúteis rs
   pen:
     name: Pen,
     description: Árvore Anciã
-    avatar: blog/author-pen.gif
+    avatar: jornal/author-pen.gif
 
   gertrudes:
     name: Gertrudes,

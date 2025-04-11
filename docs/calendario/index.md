@@ -1,5 +1,5 @@
 ---
-#title:
+title: Calendário
 #icon:
 description: Veja quando acontecerá os próximos boosts de gold, exp, rep, no Adventure Quest Worlds.
 authors:
