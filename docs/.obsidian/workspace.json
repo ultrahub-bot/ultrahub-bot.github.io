@@ -170,9 +170,22 @@
   },
   "active": "270c734a615cdaf0",
   "lastOpenFiles": [
+    "logo.png",
+    "blog/posts/posts",
+    "blog/posts/_recursos.md",
+    "blog/posts/index.md",
+    "blog/posts/author-pen.gif",
+    "blog/posts/author-jix.jpg",
+    "blog/posts/20250408-aqw-dauntless-ou-radiant-goddess-of-war.md",
+    "blog/posts/20250404-aqw-chaos-avenger-ou-void-highlord.md",
+    "blog/posts/20250403-aqw-unundead-goat-vs-ultra-bosses.md",
+    "blog/posts/20250401-aqw-unundead-goat-e-hollowborn-no-class.md",
+    "blog/posts/20241213-aqw-archmage-vs-arcana-invoker.md",
     "blog/posts",
     "blog/index.md",
     "blog",
+    "jornal/posts/posts",
+    "jornal/posts/index.md",
     "jornal/posts/_recursos.md",
     "jornal/posts/author-pen.gif",
     "jornal/posts/author-jix.jpg",
@@ -189,8 +202,6 @@
     "assets/css/Novo(a) Documento de Texto.txt",
     "assets/js/calendar.js",
     "assets/js/calendar.txt",
-    "assets/js/Novo(a) Documento de Texto.txt",
-    "assets/js/Nova pasta",
     "calendario/index.md",
     "guias/itens/blade-of-awe.md",
     "guias/reputacao/index.md",
@@ -198,8 +209,6 @@
     "guias/ultra-bosses/ultra-champion-drakath.md",
     "guias/ultra-bosses/ultra-dage.md",
     "guias/ultra-bosses/ultra-drago.md",
-    "guias/ultra-bosses/ultra-speaker.md",
-    "guias/index.md",
-    "guias/classes/index.md"
+    "guias/ultra-bosses/ultra-speaker.md"
   ]
 }

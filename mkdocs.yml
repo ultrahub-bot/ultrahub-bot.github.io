@@ -91,7 +91,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: logomr.png
+  logo: logo.png
   icon:
     edit: material/pencil 
     view: material/eye
@@ -111,6 +111,7 @@ plugins:
   #    enable_creation_date: true
   - blog:
       enabled: true
+      blog_dir: jornal
       post_date_format: medium # Jan 31, 2024
       post_url_date_format: yyyy/MM
       blog_toc: true
