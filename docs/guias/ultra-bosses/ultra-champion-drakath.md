@@ -56,6 +56,13 @@ Para completar a missão, o jogador deverá ser nível 80.
 
 Champion Drakath é um dos Ultra Bosses mais complexos e punitivos do jogo. A luta é dividida em **três fases principais**, e cada uma exige atenção redobrada ao timing dos ataques e uso correto de taunts.
 
+O Drakath:
+  - **Sempre acerta** os ataques.
+  - **Não pode ser interrompido ou atordoado.**
+  - **É imune a efeitos de crítico.**
+  - **Ignora taunt em auto-attacks.**
+  - Possui um **Anti-burst Mechanic** onde todo dano acima de **75.000** é reduzido com um multiplicador.
+ 
 ### Mecânica de Nuke
 
 - A **cada 2 milhões de HP perdidos**, Drakath usa uma habilidade devastadora em área (*Chaorruption* ou *Chaos Blast*, dependendo da fase).
@@ -69,9 +76,9 @@ Champion Drakath é um dos Ultra Bosses mais complexos e punitivos do jogo. A lu
 - Classes que consomem muita mana devem ser usadas com cautela.
 - O uso do **Scroll of Dissonance** pode **substituir StoneCrusher** em composições alternativas, garantindo regeneração constante de mana.
 
-## Fases da Luta
+### Fases
 
-### Fase 1: 20M a 10M de HP
+#### Fase 1: 20M a 10M de HP
 
 Nesta fase, Drakath **ataca a cada 2.25 segundos**, aplicando **Chaorrupted** e **ignorando taunt**. A cada 2 milhões de HP perdidos, ele realiza um *nuke* (Chaorruption). Se não for redirecionado com taunt, jogadores com defesa baixa provavelmente morrerão.
 
@@ -85,7 +92,7 @@ Nesta fase, Drakath **ataca a cada 2.25 segundos**, aplicando **Chaorrupted** e 
     - Aplica **Gaining Power**: +50% de dano causado (acumula indefinidamente).
     - Deve ser redirecionado com taunt, ou a luta escalará rapidamente e se tornará insustentável.
 
-### Fase 2: 10M a 4M de HP
+#### Fase 2: 10M a 4M de HP
 
 Drakath se transforma e ganha buffs de velocidade e esquiva. Seus ataques aplicam **debuffs severos** e os nukes causam ainda mais dano e buffs acumulativos.
 
@@ -107,7 +114,7 @@ Drakath se transforma e ganha buffs de velocidade e esquiva. Seus ataques aplica
       - **Gaining Evasion**: +20% de Dodge (acumula)
     - O uso de taunt continua sendo **obrigatório** para evitar wipes.
 
-### Fase 3: Abaixo de 4M de HP
+#### Fase 3: Abaixo de 4M de HP
 
 Drakath para de atacar e começa a canalizar um ataque final. Durante os 20 segundos da canalização, ele fica extremamente vulnerável. Essa é a **janela crítica para finalizar a luta**.
 
@@ -126,17 +133,6 @@ Drakath para de atacar e começa a canalizar um ataque final. Durante os 20 segu
       - Ganha **+10.000% de dano físico.**
       - Aplica o DoT **Instant Deaths** no sobrevivente.
     - Essa habilidade representa o **"enrage"** da luta. Se ativada, é praticamente impossível continuar.
-
-## Observações Finais
-
-- **Anti-burst Mechanic**: Todo dano acima de **75.000** é reduzido com um multiplicador (potência 0.8). Prefira **burst controlado** a grandes picos de dano.
-- Drakath:
-  - **Sempre acerta** os ataques.
-  - **Não pode ser interrompido ou atordoado.**
-  - **É imune a efeitos de crítico.**
-  - **Ignora taunt em auto-attacks.**
-
-A luta contra Champion Drakath exige precisão, sincronia de taunts, controle de buffs e conhecimento das fases. Com a estratégia certa, comunicação clara e uma composição sólida, é possível vencê-lo com consistência.
 
 ## Composições
 === "Composição 1"
