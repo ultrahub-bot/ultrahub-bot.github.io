@@ -97,15 +97,15 @@ theme:
 # Plugins ====================================================================================================
 
 plugins:
-  #- obsidian-interactive-graph:
-  #- rss:
+  - obsidian-interactive-graph:
+  - rss:
   - awesome-nav:  
-  #- git-committers:
-  #    repository: jix-AQW/site
-  #    branch: main
+  - git-committers:
+      repository: jix-AQW/site
+      branch: main
   - table-reader:
-  #- git-revision-date-localized:
-  #    enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
   - blog:
       enabled: true
       blog_dir: jornal
@@ -190,9 +190,7 @@ extra:
     title: Cookie consent
     description: >- 
       Nós usamos cookies para reconhecer suas visitas repetidas e preferências, assim como para medir a eficácia da nossa documentação e se os usuários encontram o que estão procurando. Com seu consentimento, você nos ajuda a tornar nossa documentação melhor..
-# Exclusões ===================================================================================================
-exclude:
-  - assets/templates/**
+
 # Extensões =====================================================================================
 markdown_extensions:
   - abbr

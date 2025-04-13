@@ -26,6 +26,7 @@ social_share: true
 !!! tip "Dica"
     Use o menu à esquerda ou clique no ícone :fontawesome-solid-bars: no canto superior esquerdo para navegar pela página.
 
+
 ## Como funciona?
 
 A **Wheel of Doom** é uma roleta de prêmios disponível em `/join doom`.

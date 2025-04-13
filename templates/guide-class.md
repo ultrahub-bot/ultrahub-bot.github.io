@@ -1,21 +1,15 @@
 ---
-#title: Início
 authors:
   - jix
-date: 2025-04-06
-#tags:
-#  - sobre
+date: <% tp.date.now("YYYY-MM-DD") %>
 keywords:
-    - aqworlds
-    - dungeon
-    - aqw dungeon
-    - templeshrine
-    - grimskull
+  - aqworlds
+  - dungeon
+  - aqw dungeon
+  - templeshrine
+  - grimskull
 description: 
 social_share: true
-#hide:
-#  - toc
-#  - navigation
 ---
 # TimeKeeper
 
@@ -57,6 +51,4 @@ Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et 
 
 ## Referências Bibliográficas
 
-
-- AQWWIKI http://aqwwiki.wikidot.com/2013-timelock-key-misc
-- Canal do Fwards
+Vozes da minha cabeça.

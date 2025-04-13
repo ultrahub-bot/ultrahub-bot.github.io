@@ -1,29 +1,29 @@
 ---
 title: Início
-icon:
+icon: 
 authors:
   - pen
 date: 2025-04-06
-tags:
-#  - sobre
+tags: 
 keywords:
-    - aqworlds
-    - ultra
-    - tutorial
-    - dungeon
-    - hardfarm
-    - ultra boss
-    - tonic
-    - elixir
-    - aqw tutorial
-    - scroll
-    - potion
-    - como farmar gold no aqw
+  - aqworlds
+  - ultra
+  - tutorial
+  - dungeon
+  - hardfarm
+  - ultra boss
+  - tonic
+  - elixir
+  - aqw tutorial
+  - scroll
+  - potion
+  - como farmar gold no aqw
 description: Aqui você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds, sobre aprimoramentos (enhancements), consumíveis (potions, elixirs, tonics, foods), como derrotar Ultra Bosses e mais.
 social_share: true
 hide:
   - toc
   - navigation
+color: var(--mk-color-blue)
 ---
 !!! tip inline end
     Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
@@ -36,7 +36,7 @@ Você poderá estar contribuindo para este guia de bolso no [Github](https://git
 ```mermaid
 ---
 config:
-  theme: dark
+  theme: 
 ---
 mindmap
   root((Site))

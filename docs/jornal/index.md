@@ -1,22 +1,17 @@
 ---
-#title: 
-#icon:
 description: Novidades através do olho de um bagre sobre o mundo de Adventure Quest Worlds!
 authors:
   - pen
+  - jix
 date: 2025-04-06
-tags:
-#    - tag 1
-#    - tag 2
+tags: 
 keywords:
-    - aqw news
-    - aqw design notes
-    - aqw tutorial ultra boss
-    - aqw archmage
+  - aqw news
+  - aqw design notes
+  - aqw tutorial ultra boss
+  - aqw archmage
 social_share: true
-hide:
-#    - toc
-#    - navigation
+hide: 
 ---
 # Jornal
 ---

@@ -1,21 +1,29 @@
 ---
+#title: "Título da Página Completa"
 date:
-  created: 2024-12-13
-  updated: 2025-04-06
+  created: <% tp.date.now("YYYY-MM-DD") %>
+  updated: <% tp.date.now("YYYY-MM-DD") %>6
 authors:
   - jix
 categories:
-  - Video
+  - Novidade
 tags:
-  - Archmage
-  - Arcana Invoker
-readtime: 
-pin: false
-thumbnail:
-excerpt: Uma descrição curta do post.
+  - exemplo
+readtime: 5
+pin: true
+thumbnail: "/imagens/thumbnail.jpg"
+excerpt: "Uma descrição curta da página."
 social_share: true
-related_posts:
+related_posts: []  # Em páginas, normalmente não há posts relacionados
 draft: false
+description: "Esta é uma descrição detalhada da página para uso em meta tags e SEO."
+keywords:
+  - mkdocs
+  - material
+  - documentação
+layout: "page"
+nav_order: 1
+hidden: false
 ---
 
 # Archmage vs Arcana Invoker: quem é a vencedora?

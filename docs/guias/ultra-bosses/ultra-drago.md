@@ -49,8 +49,13 @@ Salve rapaziada, fala tu! Jix novamente e no vídeo de hoje decidi trazer para v
 ## Requisitos
 Requisitos aqui.
 
+## Mecânicas
+Mecânicas do boss.
+
 ## Composições
-Composições aqui.
+=== "Composição 1"
+    {{ read_csv('./assets/table-ultra-drago-comp-1.csv') }}
+
 
 ## Considerações Finais
 É isso.

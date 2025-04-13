@@ -8,13 +8,16 @@ categories:
   - Video
 tags:
   - Dauntless
-  - Radiant Goddess of War
+  - Radiant
+  - Goddess
+  - of
+  - War
 readtime: 
 pin: false
 thumbnail: https://img.youtube.com/vi/3a7ynm33hRM/maxresdefault.jpg
-excerpt: No vídeo de hoje decidi trazer para vocês um novo episódio da série O que pegar primeiro, onde faço recomendações de quais farms iniciar primeiro! Desta vez, mostrando o que pegar primeiro entre as duas principais recompensas do Ultra speaker!
+excerpt: No vídeo de hoje decidi trazer para vocês um novo episódio da série O que pegar primeiro, onde faço recomendações de quais farms iniciar primeiro!
 social_share: true
-related_posts:
+related_posts: 
 draft: false
 ---
 

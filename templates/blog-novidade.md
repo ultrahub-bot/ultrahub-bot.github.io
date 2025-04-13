@@ -1,8 +1,8 @@
 ---
 #title: "Título da Página Completa"
 date:
-  created: 2024-12-13
-  updated: 2025-04-06
+  created: <% tp.date.now("YYYY-MM-DD") %>
+  updated: <% tp.date.now("YYYY-MM-DD") %>6
 authors:
   - jix
 categories:

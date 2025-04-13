@@ -50,6 +50,9 @@ Salve rapaziada, fala tu! Jix novamente e no vídeo de hoje decidi trazer para v
 ## Requisitos
 Requisitos aqui.
 
+## Mecânicas
+Mecânicas do boss.
+
 ## Composições
 Composições aqui.
 

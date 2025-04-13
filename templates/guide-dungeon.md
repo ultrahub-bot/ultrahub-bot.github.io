@@ -2,7 +2,7 @@
 #title: Início
 authors:
   - jix
-date: 2025-04-06
+date: <% tp.date.now("YYYY-MM-DD") %>
 #tags:
 #  - sobre
 keywords:
