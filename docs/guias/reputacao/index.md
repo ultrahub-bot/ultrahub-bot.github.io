@@ -23,7 +23,7 @@ Cada facção possui uma reputação que varia do Rank 1 ao Rank 10. Para alcan�
 
 ???+ abstract "Tabela de Reputações"
     
-    {{ read_csv('./assets/tables/table-reputation-total.csv') }}
+    {{ read_csv('./assets/table-reputation-total.csv') }}
 
 Atualmente, existem diversas facções em AQW, cada uma com sua própria reputação, incluindo:
 

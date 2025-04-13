@@ -63,7 +63,7 @@ Estas são as composições recomendadas para poder derrotar o ultra Dage:
     {{ read_csv('./assets/table-ultra-dage-comp-1.csv') }}
 
 ===+ "Composição 2"
-    {{ read_csv('../assets/table-ultra-dage-comp-2.csv') }}  
+    {{ read_csv('./assets/table-ultra-dage-comp-2.csv') }}  
 
 ===+ "Composição 3"
     {{ read_csv('./assets/table-ultra-dage-comp-3.csv') }}  

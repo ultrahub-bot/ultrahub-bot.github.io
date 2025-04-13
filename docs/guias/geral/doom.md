@@ -54,7 +54,7 @@ As categorias de raridade e suas respectivas probabilidades são:
 - 🔴 **IMPOSSIBLE** – **entre 0.1% e 1%**
 
 ???- abstract "Lista de Itens"
-     {{ read_csv('./assets/tables/table-doom.csv') }}
+     {{ read_csv('./assets/table-doom.csv') }}
 
 ## Reset Diário
 

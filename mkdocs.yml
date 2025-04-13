@@ -27,8 +27,8 @@ site_description: >-
 
 # Repositorio =====================================================================================
 
-repo_name: jix-AQW/site
-repo_url: https://github.com/jix-AQW/site
+#repo_name: jix-AQW/site
+#repo_url: https://github.com/jix-AQW/site
 edit_uri: edit/main/docs/
 
 # Copyright =======================================================================================
@@ -70,24 +70,20 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Trocar para modo Claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple
       accent: deep purple
       toggle:
-        icon: material/toggle-switch
+        icon: fontawesome/solid/moon
         name: Trocar para modo Escuro 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple
       accent: deep purple
       toggle:
-        icon: material/toggle-switch-off
-        name: Trocar para a preferência do sistema
+        icon: fontawesome/solid/sun
+        name: Trocar para modo Claro
   font:
     text: Roboto
     code: Roboto Mono
@@ -194,7 +190,9 @@ extra:
     title: Cookie consent
     description: >- 
       Nós usamos cookies para reconhecer suas visitas repetidas e preferências, assim como para medir a eficácia da nossa documentação e se os usuários encontram o que estão procurando. Com seu consentimento, você nos ajuda a tornar nossa documentação melhor..
-
+# Exclusões ===================================================================================================
+exclude:
+  - assets/templates/**
 # Extensões =====================================================================================
 markdown_extensions:
   - abbr
