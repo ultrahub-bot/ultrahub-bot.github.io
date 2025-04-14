@@ -10,7 +10,7 @@ keywords:
   - aqw guild hall
   - aqw ultrahub
   - aqw guild spotlight
-description: 
+description: Como planejar, criar e manter uma guilda no AQWorlds. Um guia através da ótica de um líder de guilda.
 social_share: true
 ---
 # Guildas
