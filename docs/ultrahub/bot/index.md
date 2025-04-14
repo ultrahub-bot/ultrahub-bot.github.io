@@ -37,3 +37,28 @@ Este bot foi pensado com o intuito de facilitar a gestão de insígnias da guild
 | `/desvincular` | Desvincula o ID do usuário do AQWorlds ao perfil do Discord.              | Admin      |
 
 
+## Roadmap
+- [x] Buttons
+    * [x] Error / warning variants
+- [ ] Color picker
+- [X] Checkbox
+- [X] Content switcher
+- [x] DataTable
+    * [x] Cell select
+    * [x] Row / Column select
+    * [x] API to update cells / rows
+    * [ ] Lazy loading API
+- [ ] Date picker
+- [ ] Drop-down menus
+- [ ] Form Widget
+    * [ ] Serialization / Deserialization
+    * [ ] Export to `attrs` objects
+    * [ ] Export to `PyDantic` objects
+- [ ] Image support
+    * [ ] Half block
+    * [ ] Braille
+    * [ ] Sixels, and other image extensions
+- [x] Input
+    * [x] Validation
+    * [ ] Error / warning states
+    * [ ] Template types: IP address, physical units (weight, volume), currency, credit card etc
