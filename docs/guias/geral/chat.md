@@ -155,22 +155,22 @@ social_share: true
 
 ### Atalhos do Teclado
 
-| Tecla | Função |
-|-------|--------|
-| <kbd>1</kbd> | Ataque automático |
-| <kbd>2</kbd> a <kbd>5</kbd> | Habilidades (1ª a 4ª) |
-| <kbd>6</kbd> | Usa itens equipados |
-| <kbd>B</kbd> | Abre o banco |
-| <kbd>C</kbd> | Painel do personagem |
-| <kbd>T</kbd> | Seleciona o alvo do alvo |
-| <kbd>L</kbd> | Diário de missões |
-| <kbd>F</kbd> | Lista de amigos |
-| <kbd>U</kbd> | Jogadores da zona atual |
-| <kbd>I</kbd> | Inventário (ou da casa) |
-| <kbd>V</kbd> | Mostra barras de vida |
-| <kbd>Espaço</kbd> | Gasta 50 de stamina para dash |
-| <kbd>Shift</kbd> + clique no nome do jogador no chat | Inicia sussurro com jogador |
-| <kbd>Esc</kbd> | Cancela ações / fecha alvo |
+| Tecla                                                | Função                        |
+| ---------------------------------------------------- | ----------------------------- |
+| <kbd>1</kbd>                                         | Ataque automático             |
+| <kbd>2</kbd> a <kbd>5</kbd>                          | Habilidades (1ª a 4ª)         |
+| <kbd>6</kbd>                                         | Usa itens equipados           |
+| <kbd>B</kbd>                                         | Abre o banco                  |
+| <kbd>C</kbd>                                         | Painel do personagem          |
+| <kbd>T</kbd>                                         | Seleciona o alvo do alvo      |
+| <kbd>L</kbd>                                         | Diário de missões             |
+| <kbd>F</kbd>                                         | Lista de amigos               |
+| <kbd>U</kbd>                                         | Jogadores da zona atual       |
+| <kbd>I</kbd>                                         | Inventário (ou da casa)       |
+| <kbd>V</kbd>                                         | Mostra barras de vida         |
+| <kbd>Espaço</kbd>                                    | Gasta 50 de stamina para dash |
+| <kbd>Shift</kbd> + clique no nome do jogador no chat | Inicia sussurro com jogador   |
+| <kbd>Esc</kbd>                                       | Cancela ações / fecha alvo    |
 
 ## Considerações Finais
 É isso.
