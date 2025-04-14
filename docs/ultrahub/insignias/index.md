@@ -27,16 +27,13 @@ Este bot foi pensado com o intuito de facilitar a gestão de insígnias da guild
 
 ## Insígnias
 
-### HISTÓRIA
+### História
 
 Atenção rare hunters, nesta categoria, os membros que participaram da primeira sessão das raids da guilda UltraHub irão receber este título honorário.
 
-- **Hall da Fama**: Participou da primeira raid registrada do sistema.
-- **Arquiteto**: Contribuiu diretamente para o desenvolvimento do bot da guilda.
+{{ read_csv('./assets/insignia-historia.csv') }}
 
----
-
-### SPEEDRUN
+### Speedrun
 
 Esta categoria de conquista é especial e deve ser avaliada separadamente.  
 O grupo que registrar o menor tempo em uma raid específica manterá a insígnia ativa enquanto seu recorde estiver válido.
@@ -48,70 +45,21 @@ O grupo que registrar o menor tempo em uma raid específica manterá a insígnia
 
 #### 4 MAN ULTRA
 
-- **SR Ultra Warden**
-- **SR Ultra Ezrajal**
-- **SR Ultra Engineer**
-- **SR Ultra Tyndarius**
-- **SR Champion Drakath**
-- **SR Ultra Dage**
-- **SR Ultra Darkon**
-- **SR Ultra Drago**
-- **SR Ultra Nulgath**
-- **SR Ultra Speaker**
-- **SR Ultra Iara**
-- **SR Ultra Kala**
+{{ read_csv('./assets/insignia-speedrun-4m.csv') }}
 
 #### 3 MAN ULTRA
 
-- **SR Ultra Warden**
-- **SR Ultra Ezrajal**
-- **SR Ultra Engineer**
-- **SR Ultra Tyndarius**
-- **SR Champion Drakath**
-- **SR Ultra Dage**
-- **SR Ultra Darkon**
-- **SR Ultra Drago**
-- **SR Ultra Nulgath**
-- **SR Ultra Speaker**
-- **SR Ultra Iara**
-- **SR Ultra Kala**
+{{ read_csv('./assets/insignia-speedrun-3m.csv') }}
 
----
+### Raid
 
-### RAID
+{{ read_csv('./assets/insignia-raids.csv') }}
 
-#### RANKING
+### Comunidade
 
-- **Top 1 da Semana**: Jogador com maior pontuação semanal.
-- **Top 10 Mensal**: Entre os 10 membros que mais participaram de raids no mês.
+{{ read_csv('./assets/insignia-comunidade.csv') }}
 
-#### PARTICIPAÇÃO
+### Atividade
 
-- **Novato em Raids**: Participou de 1 raid.
-- **Iniciante de Batalhas**: Participou de 5 raids.
-- **Soldado de Elite**: Participou de 10 raids.
-- **Veterano de Guerra**: Participou de 20 raids.
-- **Lenda das Raids**: Participou de 50 raids.
-- **Insano das Raids**: Participou de 100 raids.
-- **Comandante**: Criou e liderou 10 raids com sucesso.
-- **Organizador**: Ajudou na composição e organização de equipes.
+{{ read_csv('./assets/insignia-atividade.csv') }}
 
----
-
-### COMUNIDADE
-
-- **Mentor**: Ajudou jogadores iniciantes da guilda.
-- **Conselheiro**: Compartilhou dicas e estratégias úteis de forma recorrente.
-- **Artista da Guilda**: Criou artes, visuais ou conteúdos criativos para a comunidade.
-
----
-
-### ATIVIDADE
-
-- **Participante Frequente I**: Mandou mensagem no chat por 1 dia consecutivo.
-- **Participante Frequente II**: Mandou mensagem no chat por 15 dias consecutivos.
-- **Participante Frequente III**: Mandou mensagem no chat por 30 dias consecutivos.
-- **Participante Frequente IV**: Mandou mensagem no chat por 45 dias consecutivos.
-- **Participante Frequente V**: Mandou mensagem no chat por 60 dias consecutivos.
-- **Participante Frequente VI**: Mandou mensagem no chat por 75 dias consecutivos.
-- **Participante Frequente VII**: Mandou mensagem no chat por 90 dias consecutivos.
