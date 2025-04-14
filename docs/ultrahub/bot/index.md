@@ -23,15 +23,17 @@ hide:
     Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
 
 ## Introdução
-Este bot foi pensado com o intuito de facilitar a gestão de insígnias da guilda UltraHub bem como a criação de raids contra Ultra Bosses.
+Este bot foi pensado com o intuito de facilitar a gestão de insígnias da guilda **UltraHub** bem como a criação de raids contra Ultra Bosses.
 
 ## Comandos
 
-| Comando       | Descrição                                                                 | Permissão  |
-|---------------|---------------------------------------------------------------------------|------------|
-| `/ajuda`      | Mostra todos os comandos do bot                                           | Verificados|
-| `/raid`       | Inicia uma raid. Pedirá para selecionar o boss e a classe que você usará. | Verificados|
-| `/vincular`   | Vincula o ID do usuário do AQWorlds ao perfil do Discord.                 | Admin      |
-| `/devincular` | Desvincula o ID do usuário do AQWorlds ao perfil do Discord.              | Admin      |
+| Comando        | Descrição                                                                 | Permissão  |
+|----------------|---------------------------------------------------------------------------|------------|
+| `/ajuda`       | Mostra todos os comandos do bot                                           | Verificado |
+| `/char`        | Verifica o que o usuário informado está usando no AQWorlds                | Verificado |
+| `/insignia`    | Verifica se o membro possui os requisitos de uma conquista do servidor.   | Verificado |
+| `/raid`        | Inicia uma raid. Pedirá para selecionar o boss e a classe que você usará. | Verificado |
+| `/vincular`    | Vincula o ID do usuário do AQWorlds ao perfil do Discord.                 | Admin      |
+| `/desvincular` | Desvincula o ID do usuário do AQWorlds ao perfil do Discord.              | Admin      |
 
 
