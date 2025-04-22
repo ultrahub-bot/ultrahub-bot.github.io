@@ -55,6 +55,20 @@ Isso se repetirá para os demais bosses que a banca selecionar, e no final de tu
 
 Ao final da seleção, o candidato saberá se foi aprovado ou não, recebendo a sua nota e o feedback sobre como foi o seu desempenho ao longo de todo o recrutamento. Caso o candidato não obtenha a nota necessária para entrar na guilda, ele poderá tentar novamente em 3 dias.
 
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/5MOWeYzINBg?si=Q_Lxz7nA6-6glzhX" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
+
+[Acessar Formulário](https://forms.gle/xwvQpHDScw4FTWoZ7){ .md-button .md-button--primary }
+
 ## Regras
 - É terminantemente proibido QUALQUER tipo de preconceito relacionado a raça, a sexualidade, a etnia, etc;
 - Não é permitido divulgar ou usar bots, launchers, trainers, macros, APKs ou qualquer outro programa de terceiros ilegal;
