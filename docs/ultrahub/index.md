@@ -1,7 +1,7 @@
 ---
 title: UltraHub
 icon: fontawesome/solid/house-flag
-description: Veja quando acontecerá os próximos boosts de gold, exp, rep, no Adventure Quest Worlds.
+description: Saiba como se juntar a uma das mais temível guildas de jogadores endgame do AQWorlds.
 authors:
   - pen
 date: 2025-04-08
