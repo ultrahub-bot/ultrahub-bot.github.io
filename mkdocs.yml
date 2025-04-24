@@ -27,8 +27,8 @@ site_description: >-
 
 # Repositorio =====================================================================================
 
-#repo_name: jix-AQW/site
-#repo_url: https://github.com/jix-AQW/site
+repo_name: jix-AQW/site
+repo_url: https://github.com/jix-AQW/site
 edit_uri: edit/main/docs/
 
 # Copyright =======================================================================================
