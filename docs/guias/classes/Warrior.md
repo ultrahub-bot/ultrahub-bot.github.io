@@ -3,12 +3,14 @@ authors:
   - jix
 date: 2025-04-13
 keywords:
-  - aqworlds
-  - dungeon
-  - aqw dungeon
-  - templeshrine
-  - grimskull
-description: 
+  - aqw starter classes
+  - aqw classes
+  - aqw warrior class
+  - aqw warrior tutorial
+  - aqw cangaceiros warrior
+  - aqw como usar a warrior
+  - aqw how to use warrior
+description: Aprenda tudo que você precisa saber sobre a Warrior class neste tutorial.
 social_share: true
 ---
 # Warrior
