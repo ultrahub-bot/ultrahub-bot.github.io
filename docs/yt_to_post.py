@@ -72,7 +72,7 @@ social_share: true
 --- 
 # {titulo}
 
-Texto que ficará aparecendo na página principal do blog antes do leia.
+{descricao}
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
