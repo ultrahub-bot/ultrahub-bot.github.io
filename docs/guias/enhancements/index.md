@@ -1,6 +1,6 @@
 ---
 #title: Aprimoramentos Awe
-icon:
+icon: fontawesome/solid/scroll
 authors:
   - pen
   - jix

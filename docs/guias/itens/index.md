@@ -1,6 +1,6 @@
 ---
 #title: 
-#icon:
+icon: fontawesome/solid/wand-sparkles
 description: Aprenda a pegar os itens mais hardfarms do Adventure Quest Worlds!
 authors:
   - pen

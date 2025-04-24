@@ -1,4 +1,5 @@
 ---
+icon: fontawesome/solid/arrow-trend-up
 description: Descubra como pegar reputação rápido no AQWorlds!
 authors:
   - pen

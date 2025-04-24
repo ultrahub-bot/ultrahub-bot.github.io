@@ -1,6 +1,6 @@
 ---
 title: Ultra Bosses
-icon:
+icon: fontawesome/solid/skull-crossbones
 description: Encontre estratégias e dicas para derrotar os Ultra Bosses em AdventureQuest Worlds.
 authors:
   - pen

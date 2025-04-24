@@ -1,6 +1,6 @@
 ---
 #title: 
-#icon:
+icon: fontawesome/solid/skull-crossbones
 description: 
 authors:
   - pen

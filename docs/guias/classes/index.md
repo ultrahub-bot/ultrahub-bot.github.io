@@ -1,6 +1,6 @@
 ---
-#title:
-#icon:
+title: Classes
+icon: fontawesome/solid/shirt
 description: Um guia completo de classes em AQWorlds! Descubra como dominar ArchMage, Arcana Invoker e outras. Melhore sua gameplay com builds e encantamentos certos!
 authors:
   - jix

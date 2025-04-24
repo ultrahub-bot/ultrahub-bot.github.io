@@ -1,6 +1,6 @@
 ---
 #title:
-#icon:
+icon: fontawesome/solid/dungeon
 description: Aprenda tudo sobre as Dugeons do Adventure Quest Worlds! Templeshire, Grimskull e mais.
 authors:
   - pen
