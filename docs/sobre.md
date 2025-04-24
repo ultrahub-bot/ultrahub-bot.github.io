@@ -17,9 +17,9 @@ Criado em abril de 2025, o **Jix's AQWorlds Handbook** visa fornecer guias sobre
 ### Criadores
 
 #### Jix
-Criador de conteúdo hardfarm e officer da guilda Era do Gelo.
+Criador de conteúdo hardfarm e líder da guilda **UltraHub**.
 #### Pen
-Líder da guilda HollowInk.
+Líder da guilda HollowInk e do projeto **UltraHub**.
 
 ### Missão, Visão e Valores (MVV)
 #### Missão
