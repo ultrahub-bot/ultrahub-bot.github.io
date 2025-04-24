@@ -128,23 +128,32 @@ Os  aprimoramentos **Forge** oferecem habilidades bônus únicas para armas, cap
 - #### :fontawesome-solid-book: **Anima**
 
     ---
-    **Efeito**: aumenta significativamente a **Sabedoria (Wisdom)**, beneficiando classes que dependem desse atributo.
+    **Efeito**: aprimora a **Força (Strenght)**, sendo vantajoso para classes focadas sem dano físico.
 
 - #### :fontawesome-solid-flask: **Examen**
 
     ---
-    **Efeito**: proporciona um aumento considerável na **Inteligência (Intellect)**, ideal para classes mágicas.
+    **Efeito**: aumenta significativamente a **Sabedoria (Wisdom)**, beneficiando classes que depeendem desse atributo.
 
 - #### :fontawesome-solid-feather: **Pneuma**
 
     ---
-    **Efeito**: focaliza no aumento da **Destreza (Dexterity)**, favorecendo classes que utilizam esse atributo para precisão e velocidade.
+    **Efeito**: proporciona um aumento considerável na **Inteligência (Intellect)**, ideal para classes mágicas.
 
 - #### :fontawesome-solid-dumbbell: **Vim**
 
     ---
-    **Efeito**: aprimora a **Força (Strength)**, sendo vantajoso para classes focadas em dano físico.
+    **Efeito**: focaliza no aumento da **Destreza (Dexterity)**, favorecendo classes que utilizam esse atributo para precisão e velocidade.
 
+- #### :fontawesome-solid-dumbbell: **Hearty**
+
+    ---
+    **Efeito**: aumenta significativamente seus pontos de **Vida (Endurance)**, enquanto reduz todos os seus outros atributos.
+
+  - #### :fontawesome-solid-dumbbell: **Forge**
+
+    ---
+    **Efeito**: possui distribuição híbrida entre **Força (Strenght), Inteligência (Intellect) e Sorte (Luck)**, favorecendo quase todas as classes do jogo.
 </div>
 
 ### Capa
@@ -165,28 +174,32 @@ Os  aprimoramentos **Forge** oferecem habilidades bônus únicas para armas, cap
 - #### :fontawesome-solid-cross: **Absolution**
 
     ---
-    **Efeito**: aumenta a **cura recebida** pelo jogador, melhorando a sustentabilidade em combate.
+    **Efeito**: aumenta a **cura recebida** pelo jogador e reduzindo parte de seu dano físico, melhorando a sustentabilidade em combate..
 
 - #### :fontawesome-solid-coins: **Avarice**
 
     ---
-    **Efeito**: amplifica o **dano crítico causado**, potencializando o potencial ofensivo.
+    **Efeito**: Efeito: reduz a **recarga das habilidades**, mas quebra sua **resistência à dano**.
 
 - #### :fontawesome-solid-shield: **Lament**
 
     ---
-    **Efeito**: reduz o **dano recebido de ataques físicos**, aumentando a resistência contra inimigos corpo a corpo.
+    **Efeito**: aumenta sua **chance crítica** enquanto aumenta a **recarga das habilidades**, elevando a eficácia em combate.
 
 - #### :fontawesome-solid-hat-wizard: **Penitence**
 
     ---
-    **Efeito**: diminui o **dano recebido de ataques mágicos**, fortalecendo a defesa contra inimigos que utilizam feitiços.
+    **Efeito**: reduz o **dano recebido**, aumentando a resistência contra inimigos em geral.
 
 - #### :fontawesome-solid-fire: **Vainglory**
 
     ---
-    **Efeito**: aumenta o **dano geral causado** pelo jogador, elevando a eficácia em combate.
+    **Efeito**: aumenta o **dano geral** causado pelo jogador e reduzindo o **recebimento de cura**, elevando a eficácia em combate.
 
+- #### :fontawesome-solid-fire: **Forge**
+
+    ---
+    **Efeito**: não possui efeitos, apenas atributos .
 </div>
 
 ## Considerações Finais

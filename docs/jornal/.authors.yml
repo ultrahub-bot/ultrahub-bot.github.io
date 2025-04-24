@@ -9,6 +9,11 @@ authors:
     description: Bagre Mestre
     avatar: jornal/author-jix.jpg
 
+  fw:
+    name: Forwards,
+    description: Hardcore
+    avatar: jornal/author-fw.jpg
+
   # Inúteis rs
   pen:
     name: Pen,
