@@ -81,6 +81,19 @@ Seu funcionamento gira em torno do acúmulo de efeitos com a terceira skill e a 
 
 *Em construção.*
 
+## Outros Vídeos
+
+:fontawesome-brands-youtube:{ style="color: #EE0F0F" }
+__[QUEEN IONA SEM FORGE - ARCANA INVOKER AQW]__ by @jix-aqw – :octicons-clock-24:
+2m – Veja como derrotar a Queen Iona sem Forge utilizando a Arcana Invoker!
+
+:fontawesome-brands-youtube:{ style="color: #EE0F0F" }
+__[ARCHMAGE VS ARCANA INVOKER! QUEM LEVA A MELHOR?]__ by @jix-aqw – :octicons-clock-24:
+21m – Entre Arcana Invoker e ArchMage, qual você escolheria?
+
+  [QUEEN IONA SEM FORGE - ARCANA INVOKER AQW]: https://www.youtube.com/watch?v=f8PLMgSO-X4
+  [ARCHMAGE VS ARCANA INVOKER! QUEM LEVA A MELHOR?]: https://www.youtube.com/watch?v=XHVVjc5FFxY 
+
 ## Referências Bibliográficas
 
 - Vozes da minha cabeça.
