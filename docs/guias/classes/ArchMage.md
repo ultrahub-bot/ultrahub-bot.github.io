@@ -63,7 +63,7 @@ A Archmage é uma classe híbrida (DPS/Tank) que alterna entre dois modos:
 - Use **Skill 5** novamente após 30s para manter o buff de +30% de dano mágico.  
 
 ## Encantamentos  
-### 1️⃣ Elysium + Vainglory (BALANÇO ENTRE DANO E SOBREVIVÊNCIA)  
+### Elysium + Vainglory (BALANÇO ENTRE DANO E SOBREVIVÊNCIA)  
 - **Setup**:  
   - Arma: Elysium (dano baseado em mana).  
   - Capa: Vainglory (+15% dano, -cura).  
@@ -73,7 +73,7 @@ A Archmage é uma classe híbrida (DPS/Tank) que alterna entre dois modos:
   - Spame **Skill 3** após ativar Skill 5.  
 - **Vantagem**: Fácil de usar, sustentável contra bosses fortes.  
 
-### 2️⃣ Valiance + Lament (DANO ALTO/RISCO)  
+### Valiance + Lament (DANO ALTO/RISCO)  
 - **Setup**:  
   - Arma: Valiance (+30% atributos).  
   - Capa: Lament (+dano crítico).  
@@ -83,7 +83,7 @@ A Archmage é uma classe híbrida (DPS/Tank) que alterna entre dois modos:
   - Use **Skill 4 → Skill 2** repetidamente.  
 - **Cuidado**: Baixa cura exige esquiva ativa e gestão de vida.  
 
-### 3️⃣ Acheron + Penitence (TANK SUPORTE)  
+### Acheron + Penitence (TANK SUPORTE)  
 - **Setup**:  
   - Arma: Acheron (dano fixo por DoT).  
   - Capa: Penitence (reduz dano DoT recebido).  
@@ -97,4 +97,4 @@ A Archmage é uma classe híbrida (DPS/Tank) que alterna entre dois modos:
 *Em construção.*  
 
 ## Referências Bibliográficas  
-Vozes da minha cabeça. 🧙♂️
+Vozes da minha cabeça. 🧙
