@@ -84,4 +84,4 @@ Seu funcionamento gira em torno do acúmulo de efeitos com a terceira skill e a 
 ## Referências Bibliográficas
 
 - Vozes da minha cabeça.
-- Tutorial por Dix no canal do Bagre.
+- Tutorial por Jix no canal do Bagre.
