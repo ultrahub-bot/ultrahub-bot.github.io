@@ -32,8 +32,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_ANALYTICS_KEY: ${{ secrets.GOOGLE_ANALYTICS_KEY }}  # Segredo obrigatório
-        run: mkdocs gh-deploy --force
-        
+        #run: mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force --clean --remote-branch=gh-pages --remote-name=origin
+
       - name: Verificar substituição
         run: |
           echo "Chave GA: ${{ secrets.GOOGLE_ANALYTICS_KEY }}"
