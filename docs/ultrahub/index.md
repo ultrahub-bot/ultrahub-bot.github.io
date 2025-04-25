@@ -43,22 +43,39 @@ Com o intuito de abrir uma sede de ajuda, criamos o **UltraHub** que pode ser ac
 ## Recrutamento
 Somos uma guilda de alto desempenho, necessitando que todos os candidatos conheçam as mecânicas dos ultra bosses e tenham habilidades de comunicação que são cruciais para passar a call, ou seja, dizer quais classes, enhancements, potions, elixires e tônicos que os aliados deverão usar.
 
-```mermaid
-flowchart TD
-    A[Estudo dos bosses] --> B[Comunicação]
-    B --> C[Designação de bosses]
-    C --> D[Derrota dos bosses]
-    D --> E[Escolha de classes]
-    E --> F[Raid inicia]
-    F --> G[Execução da luta]
-    G --> H[Nota por boss]
-    H --> I[Penalidades]
-    I --> J[Média final]
-    J --> K[Média ≥ 93.5?]
-    K -->|Sim| L[Feedback final]
-    K -->|Não| M[Nova tentativa em 3 dias]
-
-```
+???- Tip "Processo de Recrutamento"
+  ```mermaid
+  flowchart TD
+      Start([Início do Recrutamento])
+      BancaSelecionaBosses[["Banca seleciona Ultra Bosses"]]
+      ParaCadaBoss{Para cada Ultra Boss?}
+      BancaDefineClasses[["Banca define classes para o candidato"]]
+      CandidatoLuta[["Candidato enfrenta o boss com as classes designadas"]]
+      DerrotouBoss{Boss derrotado?}
+      CandidatoEscolheClasses[["Candidato escolhe classes para a banca usar"]]
+      RaidComeca[["Raid contra o boss começa"]]
+      ExecutouCorretamente{Execução correta?}
+      AtribuirNota[["Atribui nota de 0 a 100 para o boss"]]
+      SubtraiErros[["Subtrai pontos por erros"]]
+      ProximoBoss{Ainda há bosses?}
+      CalcularMedia[["Calcular média das notas"]]
+      Aprovado{Média ≥ 93,5?}
+      Feedback[["Exibir nota final e feedback"]]
+      AprovadoMsg([Aprovado na guilda!])
+      ReprovadoMsg([Reprovado. Nova tentativa em 3 dias.])
+      End([Fim])
+  
+      Start --> BancaSelecionaBosses --> ParaCadaBoss
+      ParaCadaBoss -->|Sim| BancaDefineClasses --> CandidatoLuta --> DerrotouBoss
+      DerrotouBoss -->|Sim| CandidatoEscolheClasses --> RaidComeca --> ExecutouCorretamente
+      ExecutouCorretamente -->|Sim| AtribuirNota --> ProximoBoss
+      ExecutouCorretamente -->|Não| SubtraiErros --> AtribuirNota
+      DerrotouBoss -->|Não| SubtraiErros --> AtribuirNota
+      ProximoBoss -->|Sim| ParaCadaBoss
+      ProximoBoss -->|Não| CalcularMedia --> Aprovado
+      Aprovado -->|Sim| Feedback --> AprovadoMsg --> End
+      Aprovado -->|Não| Feedback --> ReprovadoMsg --> End
+  ```
 
 No recrutamento, o candidato terá que derrotar todos os ultra bosses sugeridos pela banca, onde serão designadas classes específicas para serem avaliadas. 
 
