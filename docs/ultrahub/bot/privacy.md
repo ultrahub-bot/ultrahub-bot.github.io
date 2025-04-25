@@ -44,7 +44,7 @@ Você tem o direito de:
 - Pedir esclarecimentos sobre o uso das suas informações
 - Remover o bot do servidor a qualquer momento, o que encerrará a coleta de dados
 
-Solicitações podem ser feitas via Discord diretamente com o desenvolvedor: **[SeuNome#0000]**
+Solicitações podem ser feitas via Discord diretamente com o desenvolvedor: **mrpineoak**
 
 ## 6. Uso de Cookies
 
@@ -58,6 +58,6 @@ Esta política poderá ser atualizada a qualquer momento. A versão mais recente
 
 Caso tenha dúvidas ou preocupações sobre esta Política de Privacidade, entre em contato com o desenvolvedor:
 
-- Discord: **[SeuNome#0000]**
+- Discord: **mrpineoak**
 
 **Última atualização:** 25 de abril de 2025
