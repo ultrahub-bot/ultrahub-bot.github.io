@@ -43,6 +43,34 @@ Com o intuito de abrir uma sede de ajuda, criamos o **UltraHub** que pode ser ac
 ## Recrutamento
 Somos uma guilda de alto desempenho, necessitando que todos os candidatos conheçam as mecânicas dos ultra bosses e tenham habilidades de comunicação que são cruciais para passar a call, ou seja, dizer quais classes, enhancements, potions, elixires e tônicos que os aliados deverão usar.
 
+```mermaid
+journey
+    title Jornada do Candidato no Recrutamento da Guilda
+    section Pré-requisitos
+        Estudo das mecânicas dos ultra bosses: 5: Candidato
+        Demonstração de habilidades de comunicação: 4: Candidato
+
+    section Avaliação pela banca
+        Designação dos bosses e classes para avaliação: 4: Banca
+        Candidato derrota os ultra bosses com classes designadas: 3: Candidato
+
+    section Prova prática
+        Escolha das classes que a banca usará: 4: Candidato
+        Início da raid contra o boss: 3: Todos
+
+    section Avaliação de desempenho
+        Execução da call e da luta: 2: Candidato
+        Atribuição de nota (0 a 100) por boss: 4: Banca
+        Perda de pontos por erros ou falhas: 3: Sistema
+
+    section Resultado final
+        Cálculo da média aritmética das notas: 5: Sistema
+        Verificação se média ≥ 93.5: 5: Sistema
+        Feedback final e nota ao candidato: 4: Banca
+        Nova tentativa em 3 dias se reprovado: 3: Candidato
+
+```
+
 No recrutamento, o candidato terá que derrotar todos os ultra bosses sugeridos pela banca, onde serão designadas classes específicas para serem avaliadas. 
 
 Após isso, o candidato deverá selecionar quais as classes que a banca deverá usar e por fim, a raid será iniciada contra aquele ultraboss.
