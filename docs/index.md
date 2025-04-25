@@ -35,7 +35,7 @@ color: var(--mk-color-blue)
 ---
 Neste site, você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds.
 
-Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord]([https://discord.gg/uc9y27NYTp](https://discord.gg/YAuXU4wJS8)) e fazendo uma sugestão.
+Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord](https://discord.gg/YAuXU4wJS8) e fazendo uma sugestão.
 
 ```mermaid
 ---
