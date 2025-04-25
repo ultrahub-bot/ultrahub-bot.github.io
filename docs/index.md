@@ -7,17 +7,21 @@ date: 2025-04-06
 tags: 
 keywords:
   - aqworlds
-  - ultra
-  - tutorial
-  - dungeon
-  - hardfarm
-  - ultra boss
-  - tonic
-  - elixir
+  - aqw wiki
+  - aqw calendar
+  - aqw ultra boss
   - aqw tutorial
-  - scroll
-  - potion
-  - como farmar gold no aqw
+  - aqw dungeon
+  - aqw hardfarm
+  - aqw best tonics
+  - aqw best elixir
+  - aqw tutorial
+  - aqw best scroll
+  - aqw best potion
+  - aqw fast rep
+  - aqw fast gold
+  - aqw fast exp
+  - aqw fast class points
 description: Aqui você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds, sobre aprimoramentos (enhancements), consumíveis (potions, elixirs, tonics, foods), como derrotar Ultra Bosses e mais.
 social_share: true
 hide:
@@ -31,7 +35,7 @@ color: var(--mk-color-blue)
 ---
 Neste site, você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds.
 
-Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord](https://discord.gg/uc9y27NYTp) e fazendo uma sugestão.
+Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord]([https://discord.gg/uc9y27NYTp](https://discord.gg/YAuXU4wJS8)) e fazendo uma sugestão.
 
 ```mermaid
 ---
@@ -67,16 +71,4 @@ mindmap
             Blade of Awe
 
 ```
-[data-md-toggle="search"]:not(:checked) ~ .md-header .md-search__form::after {
-  position: absolute;
-  top: .3rem;
-  right: .3rem;
-  display: block;
-  padding: .1rem .4rem;
-  color: var(--md-default-bg-color);
-  font-weight: bold;
-  font-size: .8rem;
-  border: .05rem solid var(--md-default-bg-color--lighter);
-  border-radius: .1rem;
-  content: "/";
-}
+
