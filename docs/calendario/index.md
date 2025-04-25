@@ -20,8 +20,8 @@ hide:
  - toc
  - navigation
 ---
-<link rel="stylesheet" href="../assets/css/calendar.css">
-<script src="../assets/js/calendar.js"></script>
+<link rel="stylesheet" href="./assets/css/calendar.css">
+<script src="./assets/js/calendar.js"></script>
 
 # Calendário
 ---
