@@ -36,27 +36,52 @@ Ajude o Bagre apoiando o canal!
 
 ## Visão Geral
 
-Em construção.
+A **Arcana Invoker** é uma classe mágica do tipo *offensive caster*, com foco pesado em Intelecto. Apesar de seu dano escalar muito bem, ela exige um bom entendimento de rotação de habilidades e gerenciamento de mana.
+
+Seu funcionamento gira em torno do acúmulo de efeitos com a terceira skill e a aplicação reversa desses efeitos no inimigo com a quarta skill. Ao atingir 20 acúmulos (Judgement), a classe entra no modo *The World*, onde seu verdadeiro potencial de dano é liberado.
 
 ## Método de Obtenção
 
-Em construção.
+*Em construção.*
 
 ## Status
 
-Em construção.
+- Tipo: Offensive Caster
+- Principal atributo: Intelecto
+- Ataque básico: misto (físico e mágico)
 
 ## Combo
 
-Em construção.
+### Pré-Judgement
+1. Use a skill 1 para abrir o ciclo e ganhar 80% de resistência a dano por 122s.
+2. Comece a acumular efeitos com a skill 3 (Arcana Invocation).
+3. Após cada uso da skill 3, use a skill 4 para aplicar o efeito reverso no inimigo.
+4. Priorize aplicar os seguintes efeitos: **1, 2, 5, 9–12, 16–20**.
+5. Evite spammar a skill 4 por causa do alto custo de mana.
+
+### Pós-Judgement (modo *The World*)
+1. Use a skill 2 novamente para ativar *The World*.
+2. Continue com: **3 → 5 → 3 → 5**, e intercale o 4 apenas quando o debuff acabar.
+3. A skill 3 agora reduz 4% da sua resistência a cada uso.
+4. A skill 5 causa mais dano a cada uso, acumulando com o tempo.
+5. A skill 4 agora aplica **todos os 20 efeitos** de forma reduzida ao inimigo.
+
+### Dicas Importantes
+- **Gerencie sua mana!** A skill 4 consome 40 de mana, enquanto a skill 3 recupera 15.
+- O foco de dano está nas skills **3 e 5**. Use a skill 4 com moderação para manter os debuffs ativos.
+- Ideal para conteúdo como **Ultra Bosses**, onde o tempo de preparação é compensado pelo dano massivo no final.
 
 ## Encantamentos
 
-Em construção.
+- Classe: **Luck**
+- Build recomendada: **Ravenous + Luck Wizard**
+- Capacete: **Forge Base** (opcional)
 
 ## Consumíveis
 
-Em construção.
+*Em construção.*
 
 ## Referências Bibliográficas
-Vozes da minha cabeça.
+
+- Vozes da minha cabeça.
+- Tutorial por Dix no canal do Bagre.
