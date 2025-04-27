@@ -22,6 +22,18 @@ keywords:
   - aqw fast gold
   - aqw fast exp
   - aqw fast class points
+  - adventure quest
+  - aqwe
+  - manage account
+  - adventure quest worlds
+  - aqw char page
+  - aqworlds
+  - adventurequest
+  - aqw manage account
+  - aqw charpage
+  - aqw infinity
+  - artix game launcher
+  - aqw reddit
 description: Aqui você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds, sobre aprimoramentos (enhancements), consumíveis (potions, elixirs, tonics, foods), como derrotar Ultra Bosses e mais.
 social_share: true
 hide:
