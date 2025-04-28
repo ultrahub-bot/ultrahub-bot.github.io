@@ -71,9 +71,9 @@ Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. El
 
 ## Pesquisador
 
-<link rel="stylesheet" href="../assets/css/alchemy.css">
-<script src="../assets/js/ing.js"></script>
-<script src="../assets/js/alc.js"></script>
+<link rel="stylesheet" href="../../assets/css/alchemy.css">
+<script src="../../assets/js/ing.js"></script>
+<script src="../../assets/js/alc.js"></script>
 
 ## Vídeos
 
