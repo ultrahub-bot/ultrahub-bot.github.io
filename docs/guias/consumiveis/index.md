@@ -32,6 +32,11 @@ hide:
 
 Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. Eles se dividem em algumas categorias:
 
+<link rel="stylesheet" href="../../assets/css/alchemy.css">
+<div id="alchemy-calculator"></div>
+<script src="../../assets/js/ing.js"></script>
+<script src="../../assets/js/alc.js"></script>
+
 <div class="grid cards" markdown>
 -   :material-bottle-tonic-plus: __Poções__
 
@@ -69,12 +74,6 @@ Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. El
     :octicons-arrow-right-24: [Comida](./foods/index.md)
 </div>
 
-## Pesquisador
-
-<link rel="stylesheet" href="../../assets/css/alchemy.css">
-<div id="alchemy-calculator"></div>
-<script src="../../assets/js/ing.js"></script>
-<script src="../../assets/js/alc.js"></script>
 
 ## Vídeos
 
