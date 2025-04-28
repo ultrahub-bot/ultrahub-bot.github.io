@@ -90,17 +90,5 @@ Nesta seção você irá ver um pouco mais sobre os consumíveis do AQWorlds. El
   ></iframe>
 </div>
 
-### Quais são as melhores Scrolls do jogo?
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://www.youtube.com/embed/7VV33fB9NaQ?si=tTB9jsem-NeFH2aR" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-    referrerpolicy="strict-origin-when-cross-origin" 
-    allowfullscreen 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-  ></iframe>
-</div>
 
 
