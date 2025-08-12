@@ -7,7 +7,7 @@ Esta Política de Privacidade descreve como o bot **UltraHub** coleta, utiliza e
 
 ## 1. Dados Coletados
 
-O UltraHub coleta apenas informações mínimas e públicas disponibilizadas pela API do Discord, estritamente necessárias para o funcionamento do bot:
+O UltraHub coleta apenas informações mínimas e públicas disponibilizadas pela API do Discord e que são dispobilizadas pela Artix Entertainment através da página do jogador (char page), estritamente necessárias para o funcionamento do bot:
 
 - ID do usuário
 - Nome de usuário e apelido
@@ -15,6 +15,8 @@ O UltraHub coleta apenas informações mínimas e públicas disponibilizadas pel
 - Nome do servidor
 - ID dos canais, threads e mensagens (quando necessário para comandos)
 - Itens relacionados a comandos e sistemas internos (ex.: inventários, filas, registros)
+- ID do usuário do AQWorlds
+- Nome do usuário do AQWorlds
 
 **Nenhum dado sensível** (como localização, e-mail, senha, dados bancários, etc.) é coletado ou armazenado.
 
@@ -31,8 +33,7 @@ Os dados coletados são utilizados exclusivamente para:
 
 ## 3. Compartilhamento de Dados
 
-O UltraHub **não compartilha, vende ou cede** dados dos usuários para terceiros.  
-O acesso aos dados é restrito apenas ao desenvolvedor responsável pela manutenção do bot.
+O UltraHub **não compartilha, vende ou cede** dados dos usuários para terceiros. O acesso aos dados é restrito apenas ao desenvolvedor responsável pela manutenção do bot.
 
 ## 4. Armazenamento, Retenção e Segurança
 
