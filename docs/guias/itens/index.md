@@ -32,19 +32,17 @@ hide:
 !!! tip "Dica"
     Utilize os links no menu lateral ou clique em :fontawesome-solid-bars: no canto superior esquerdo para navegar facilmente.
 
+## Bônus de Dano em Itens (Damage Boost Items)
 
-
-## 1. Bônus de Dano em Itens (Damage Boost Items)
-
-### 1.1. Itens com Bônus em Múltiplas Categorias  
+### Itens com Bônus em Múltiplas Categorias  
 Alguns itens aparecem em mais de uma categoria pois oferecem bônus de dano para dois ou mais tipos de monstros, mas menos que cinco.
 
-### 1.2. O Que é "Tagged"?  
+### O Que é "Tagged"?  
 No AQW, "tagged" refere-se aos grupos Chaoskind, Dragonkind, Elementalkind, Humankind e Undeadkind — os tipos de monstros mais comuns. Itens com bônus para "tagged" aumentam dano contra esses grupos, excluindo Drakathkind e Orckind.  
 
-Para identificar o tipo de monstro, selecione-o e observe o texto logo abaixo do nome, ou ative “Mostrar Tipo de Monstro” nas configurações para visualização constante.
+Para identificar o tipo de monstro, clique no mostro e observe no canto superior[ conforme estas fotos](https://imgur.com/a/hF0eGCT), abaixo do nome, o tipo de monstro que ele; ou ative “Mostrar Tipo de Monstro” nas configurações para visualização constante.
 
-### 1.3. Categorias de Dano Base das Armas  
+### Categorias de Dano Base das Armas  
 As armas são divididas em cinco categorias de dano base:
 
 - **Default:** 27 a 33  
@@ -53,9 +51,9 @@ As armas são divididas em cinco categorias de dano base:
 - **Medium:** 11-49 até 20-40  
 - **Other/Miscellaneous:** combinações variadas como 21-39, 24-36, 28-32 e 29-31  
 
-*Obs:* O total do dano mínimo + máximo é sempre 60. Consulte o tópico Weapon Damage para mais detalhes técnicos.
+*Obs:* O total do dano mínimo + máximo é sempre 60. Consulte o tópico [Weapon Damage](http://aqwwiki.wikidot.com/forum/t-819161/weapon-damage-thread) para mais detalhes técnicos.
 
-### 1.4. Tipos de Bônus de Dano e Acúmulo  
+### Tipos de Bônus de Dano e Acúmulo  
 Os oito tipos principais de bônus são:
 
 - xdmg2monsters (bônus para todos os monstros)  
@@ -69,15 +67,13 @@ Os oito tipos principais de bônus são:
 
 Ao equipar múltiplos itens com bônus para o mesmo tipo, só o maior será aplicado (ex: capa +25% elementais + pet +30% elementais → +30%). O bônus geral xdmg2monsters acumula com outros específicos.
 
-### 1.5. Combinações Eficientes de Bônus  
+### Combinações Eficientes de Bônus  
 Equipar uma arma com +51% para todos os monstros junto com Radiant Goddess of War (+50% para todos tagged) gera um aumento multiplicativo de aproximadamente 126,5% contra monstros tagged (exceto Drakathkind e Orckind) e +51% para os demais.
 
 Fórmula:  
-\[(1.51 \times 1.5) - 1\] \times 100
+(1.51∗1.5−1)∗100
 
----
-
-### 1.6. Exemplos Práticos
+### Exemplos Práticos
 
 | Exemplo | Item 1                               | Item 2                           | Bônus Resultante                           |
 |---------|------------------------------------|--------------------------------|-------------------------------------------|
@@ -87,54 +83,47 @@ Fórmula:
 | 4       | War Blade of Wisdom (+75% Chaoskind) | Fire Champion's Armor (+50% Dragonkind) | +75% para Chaoskind e +50% para Dragonkind |
 | 5       | War Blade of Wisdom (+75% Chaoskind) | Empowered Drakath Armor (+50% Chaoskind) | +75% para Chaoskind                         |
 
----
-
-## 2. Listas de Monstros por Tipo
+## Listas de Monstros por Tipo
 
 A AQWWiki oferece listas detalhadas para os grupos Chaoskind, Dragonkind, Drakathkind, Elementalkind, Humankind e Undeadkind, disponíveis em:  
 [Boosted Items Sorted By Boost](http://aqwwiki.wikidot.com/boosted-items-sorted-by-boost)
 
 *Nota:* Não há lista oficial para monstros Orckind.
 
----
+## Boosts de CP, Ouro, REP e EXP
 
-## 3. Boosts de CP, Ouro, REP e EXP
-
-### 3.1. Presença em Múltiplas Categorias  
+### Presença em Múltiplas Categorias  
 Itens podem aparecer em mais de uma aba quando fornecem pelo menos 2 dos 4 tipos de bônus (CP, Ouro, REP, EXP), mas menos que todos.
 
-### 3.2. Máximos de EXP, CP e REP  
+### Máximos de EXP, CP e REP  
 Para verificar o quanto é necessário para alcançar os valores máximos, consulte a página específica de progressão.
 
-### 3.3. Boosts Temporários no Servidor  
+### Boosts Temporários no Servidor  
 O jogo frequentemente concede boosts temporários em dobro para todos os jogadores. Consulte as Novidades ou o Calendário da Artix para conferir os boosts ativos.
 
-### 3.4. Limite de Ouro e Estratégias para Ultrapassá-lo  
+### Limite de Ouro e Estratégias para Ultrapassá-lo  
 O ouro é limitado a 100 milhões, porém há formas de ultrapassar esse limite:
 
 - Completar missões que recompensam grandes quantidades de ouro quando já se está próximo do limite, como a missão Awe-scention. Jogadores já acumularam mais de 130 milhões usando este método.
 
-### 3.5. Gold Vouchers como Reserva de Ouro  
+### Gold Vouchers como Reserva de Ouro  
 Comprar e armazenar Gold Vouchers permite "guardar" ouro além do limite. Cada voucher pode ser vendido por 25% do valor original quando necessário. Exemplo:  
 - Gold Voucher 500k acumulado até 300 unidades  
 - Vendidos por 125.000 ouro cada  
 - Reserva total de 37,5 milhões de ouro  
 - Custo de 150 milhões investidos e 1 slot no inventário
 
-### 3.6. Tipos de Boosts e Modo de Acúmulo  
+### Tipos de Boosts e Modo de Acúmulo  
 Existem 4 tipos principais de boosts (servidor, item equipado, item de uso) que se acumulam multiplicativamente. A regra de precedência define que, ao equipar múltiplos itens com bônus para a mesma categoria, só o maior será aplicado.
 
----
-
-### 3.7. Exemplos de Acúmulo de Boosts
+### Exemplos de Acúmulo de Boosts
 
 | Exemplo | Boost do Servidor | Item Equipado                  | Item de Uso Equipado       | Bônus Combinado | Cálculo                           |
 |---------|-------------------|-------------------------------|----------------------------|-----------------|----------------------------------|
 | 1       | Double Rep Boost   | Invoker Book Cape (+15% Rep)  | Doom REP Boost! (1 hora)   | +360% Rep       | (2 × 1.15 × 2 − 1) × 100         |
 | 2       | N/A               | Cyber Dreadhaven Mace (+15% CP)| Doom CLASS Boost! (1 hora) | +130% CP        | (1.15 × 2 − 1) × 100             |
 
----
 
-## 4. Referências
 
+## Referências
 - Boosted Items Sorted By Boost - Annonymous Joe - AQWWiki - [http://aqwwiki.wikidot.com/boosted-items-sorted-by-boost](http://aqwwiki.wikidot.com/boosted-items-sorted-by-boost)
