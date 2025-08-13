@@ -14,42 +14,36 @@
     },
     {
       "id": "2",
-      "name": "Calend\u00e1rio",
-      "symbolSize": 0,
-      "value": "/calendario/index.html"
-    },
-    {
-      "id": "3",
       "name": "Jornal",
       "symbolSize": 0,
       "value": "/jornal/index.html"
     },
     {
-      "id": "4",
+      "id": "3",
       "name": "UltraHub",
       "symbolSize": 0,
       "value": "/ultrahub/index.html"
     },
     {
-      "id": "5",
+      "id": "4",
       "name": "Discord Bot",
       "symbolSize": 0,
       "value": "/ultrahub/bot/index.html"
     },
     {
-      "id": "6",
+      "id": "5",
       "name": "Pol\u00edtica de Privacidade - UltraHub",
       "symbolSize": 0,
       "value": "/ultrahub/bot/privacy.html"
     },
     {
-      "id": "7",
+      "id": "6",
       "name": "Termos de Uso - UltraHub",
       "symbolSize": 0,
       "value": "/ultrahub/bot/tos.html"
     },
     {
-      "id": "8",
+      "id": "7",
       "name": "Ins\u00edgnias",
       "symbolSize": 0,
       "value": "/ultrahub/insignias/index.html"
