@@ -17,8 +17,10 @@ Criado em abril de 2025, o **UltraHub** tem o objetivo de auxiliar a comunidade 
 ### Equipe
 
 - **Jix:** Criador de conteúdo hardfarm e líder da guilda **UltraHub**.
-- **Pineoak: ** Líder do projeto **UltraHub**.
+- **Pineoak:** Líder do projeto **UltraHub** e programador
 - **Pyroblast:** engenheiro de dados
+- **FL**: programador
+- **Dev:** programador
 
 ## Créditos
 - [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
