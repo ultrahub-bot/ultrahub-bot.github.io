@@ -1,86 +1,84 @@
 ---
 title: Início
-icon: 
+icon: fontawesome/solid/dragon
 authors:
   - pen
 date: 2025-04-06
 tags: 
 keywords:
   - aqworlds
-  - aqw wiki
-  - aqw calendar
   - aqw ultra boss
   - aqw tutorial
   - aqw dungeon
   - aqw hardfarm
-  - aqw best tonics
-  - aqw best elixir
-  - aqw tutorial
-  - aqw best scroll
-  - aqw best potion
+  - aqw tonics
+  - aqw elixir
+  - aqw scroll
+  - aqw potion
   - aqw fast rep
   - aqw fast gold
   - aqw fast exp
   - aqw fast class points
-  - adventure quest
-  - aqwe
-  - manage account
   - adventure quest worlds
-  - aqw char page
-  - aqworlds
-  - adventurequest
-  - aqw manage account
-  - aqw charpage
-  - aqw infinity
-  - artix game launcher
-  - aqw reddit
-description: Aqui você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds, sobre aprimoramentos (enhancements), consumíveis (potions, elixirs, tonics, foods), como derrotar Ultra Bosses e mais.
+  - aqw guild
+  - aqw matchmaking
+description: O UltraHub é um bot para Discord que conecta jogadores para derrotar Ultra Bosses no Adventure Quest Worlds e oferece ferramentas avançadas de gestão de guildas, além de tutoriais e guias completos.
 social_share: true
 hide:
   - toc
   - navigation
 color: var(--mk-color-blue)
 ---
+
 !!! tip inline end
-    Veja os links à esquerda da página ou clique em :fontawesome-solid-bars: (canto superior esquerdo).
-# Boas vindas!
+    Use o menu lateral ou clique no ícone :fontawesome-solid-bars: no canto superior esquerdo para navegar.
+
+# 🎯 Boas-vindas ao UltraHub!
+
+O **UltraHub** é mais que um simples bot — é a sua central de apoio para:
+
+- 🐉 **Matchmaking de Ultra Bosses** (encontre rapidamente players para raids)
+- 🏰 **Gestão integrada de guildas** (organização, registros e eventos)
+- 📚 **Guias completos** sobre *enhancements*, consumíveis, classes, dungeons e *hardfarms*
+
 ---
-Neste site, você vai encontrar diversos tutoriais, dicas, *walkthroughs* de um player *tryhard* do Adventure Quest Worlds.
 
-Você poderá estar contribuindo para este guia de bolso no [Github](https://github.com/jix-AQW/site) ou entrando no nosso [Discord](https://discord.gg/YAuXU4wJS8) e fazendo uma sugestão.
+## 🚀 Comece por aqui
 
-```mermaid
+<div class="grid cards" markdown>
+-   :fontawesome-solid-book-open: **Guia Geral**  
+    Tutoriais e dicas para evoluir no AQW.  
+    [:octicons-arrow-right-24: Abrir](guia/geral.md)
+
+-   :fontawesome-solid-swords: **Ultra Bosses**  
+    Estratégias e composições para derrotar os chefes mais difíceis.  
+    [:octicons-arrow-right-24: Abrir](guia/ultra-bosses/index.md)
+
+-   :fontawesome-solid-hat-wizard: **Classes**  
+    Análises, builds e usos de cada classe.  
+    [:octicons-arrow-right-24: Abrir](guia/classes/index.md)
+
+-   :fontawesome-solid-flask: **Consumíveis**  
+    Potions, Elixirs, Tonics, Scrolls e Foods — saiba o que vale a pena usar.  
+    [:octicons-arrow-right-24: Abrir](guia/consumiveis/index.md)
+
+-   :fontawesome-solid-hammer: **Enhancements**  
+    Explicação completa sobre AWE, Forge e Normais.  
+    [:octicons-arrow-right-24: Abrir](guia/enhancements/index.md)
+
+-   :fontawesome-solid-dungeon: **Dungeons**  
+    Passo a passo das principais masmorras e *hardfarms*.  
+    [:octicons-arrow-right-24: Abrir](guia/dungeons/index.md)
+</div>
+
 ---
-config:
-  theme: 
+
+## 🤝 Contribua com o projeto
+Você pode ajudar a melhorar este guia:
+
+- Enviando *pull requests* no nosso [GitHub](https://github.com/jix-AQW/site)
+- Participando do nosso [Discord](https://discord.gg/YAuXU4wJS8) e sugerindo melhorias
+
 ---
-mindmap
-  root((Site))
-    Sobre
-    Blog
-        Posts
-    Guia
-        Geral
-        Classes
-        Enhancements
-            AWE
-            Forge
-            Normal
-        Ultra Bosses
-            Ultra Darkon
-            Ultra Nulgath
-            Ultra Champion Drakath
-        Dungeons
-            GrimSkull
-            TempleShrine
-        Consumíveis
-            Potions
-            Elixirs
-            Tonics
-            Scrolls
-            Foods
-        Itens
-            Blade of Awe
 
-```
-
+💡 *Este site foi criado por jogadores para jogadores, com conteúdo testado na prática.*
