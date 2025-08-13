@@ -1,0 +1,99 @@
+/* Barra de pesquisa normal */
+#pot-input {
+  width: 100%;
+  padding: 0.8rem;
+  font-size: 1rem;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 4px;
+  background: var(--md-code-bg-color);
+  color: var(--md-default-fg-color);
+  margin-bottom: 1rem;
+}
+
+#pot-input:focus {
+  outline: none;
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color--transparent);
+}
+
+/* Lista de sugestões */
+.pot-list {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 4px;
+  max-height: 300px;
+  overflow-y: auto;
+  background: var(--md-code-bg-color);
+}
+
+.pot-item {
+  padding: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.pot-item:last-child {
+  border-bottom: none;
+}
+
+.pot-item:hover {
+  background: var(--md-primary-fg-color--transparent);
+}
+
+/* Tooltip */
+.hover-tooltip-container {
+  position: relative;
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.hover-tooltip {
+  background-color: var(--md-accent-fg-color);
+  color: var(--md-accent-bg-color);
+  padding: 0.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+
+.hover-tooltip-box {
+  visibility: hidden;
+  width: 300px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  text-align: left;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: var(--md-shadow-z2);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Mostrar tooltip ao hover */
+.hover-tooltip-container:hover .hover-tooltip-box {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Links das combinações */
+.result-link {
+  color: var(--md-accent-fg-color);
+  text-decoration: underline;
+}
+
+.result-link:hover {
+  color: var(--md-primary-fg-color);
+}
