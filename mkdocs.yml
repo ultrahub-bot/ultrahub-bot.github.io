@@ -19,11 +19,11 @@
 # IN THE SOFTWARE.
 
 # Geral ===========================================================================================
-site_name: Jix - AQWorlds Handbook
-site_url: https://jix-aqw.github.io/
-site_author: Arthur Calafange & Marcel 'PineOak' Carvalho
+site_name: UltraHub
+site_url: https://ultrahub-bot.github.io/
+site_author: Marcel 'PineOak' Carvalho
 site_description: >-
-  Vídeos, tutoriais, walkthroughs e muito mais!
+  Um bot de Discord para o MMORPG Adventure Quest Worlds.
 
 # Repositorio =====================================================================================
 
@@ -33,7 +33,7 @@ edit_uri: edit/main/docs/
 
 # Copyright =======================================================================================
 
-copyright: Copyright &copy; 2025 - Arthur Calafange & Marcel 'PineOak' Carvalho
+copyright: Copyright &copy; 2025 - Marcel 'PineOak' Carvalho
 
 # Configuração ====================================================================================
 
